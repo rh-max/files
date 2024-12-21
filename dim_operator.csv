@@ -1,0 +1,2128 @@
+operator_id,mcc,mnc,country_code,country,network,valid_from,valid_to,current_row
+199,222,51,it,Italy,ho.,2023-01-01 00:00:00,infinity,active
+642,268,91,pt,Portugal,Vodafone,2023-01-01 00:00:00,infinity,active
+1310,432,70,ir,Iran,MTCE,2023-01-01 00:00:00,infinity,active
+1846,634,02,sd,Sudan,MTN,2023-01-01 00:00:00,infinity,active
+-1,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,2023-01-01 00:00:00,infinity,active
+1,202,01,gr,Greece,Cosmote,2023-01-01 00:00:00,infinity,active
+2,202,02,gr,Greece,Cosmote,2023-01-01 00:00:00,infinity,active
+3,202,03,gr,Greece,OTE,2023-01-01 00:00:00,infinity,active
+4,202,04,gr,Greece,OSE,2023-01-01 00:00:00,infinity,active
+5,202,05,gr,Greece,Vodafone,2023-01-01 00:00:00,infinity,active
+6,202,07,gr,Greece,AMD Telecom,2023-01-01 00:00:00,infinity,active
+7,202,09,gr,Greece,Wind,2023-01-01 00:00:00,infinity,active
+8,202,10,gr,Greece,Wind,2023-01-01 00:00:00,infinity,active
+9,202,12,gr,Greece,Yuboto,2023-01-01 00:00:00,infinity,active
+10,202,14,gr,Greece,CyTa Mobile,2023-01-01 00:00:00,infinity,active
+11,202,15,gr,Greece,BWS,2023-01-01 00:00:00,infinity,active
+12,202,16,gr,Greece,Inter Telecom,2023-01-01 00:00:00,infinity,active
+13,202,299,gr,Greece,AMD Telecom,2023-01-01 00:00:00,infinity,active
+14,202,999,gr,Greece,Fix Line,2023-01-01 00:00:00,infinity,active
+15,204,00,nl,Netherlands,Intovoice,2023-01-01 00:00:00,infinity,active
+16,204,02,nl,Netherlands,T-Mobile,2023-01-01 00:00:00,infinity,active
+17,204,03,nl,Netherlands,Voiceworks Mobile,2023-01-01 00:00:00,infinity,active
+18,204,04,nl,Netherlands,Vodafone,2023-01-01 00:00:00,infinity,active
+19,204,05,nl,Netherlands,ElephantTalk,2023-01-01 00:00:00,infinity,active
+20,204,06,nl,Netherlands,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+21,204,07,nl,Netherlands,Move / Teleena,2023-01-01 00:00:00,infinity,active
+22,204,08,nl,Netherlands,KPN,2023-01-01 00:00:00,infinity,active
+23,204,09,nl,Netherlands,Lycamobile,2023-01-01 00:00:00,infinity,active
+24,204,10,nl,Netherlands,KPN,2023-01-01 00:00:00,infinity,active
+25,204,12,nl,Netherlands,KPN,2023-01-01 00:00:00,infinity,active
+26,204,14,nl,Netherlands,6GMOBILE BV,2023-01-01 00:00:00,infinity,active
+27,204,15,nl,Netherlands,Ziggo,2023-01-01 00:00:00,infinity,active
+28,204,16,nl,Netherlands,T-Mobile,2023-01-01 00:00:00,infinity,active
+29,204,17,nl,Netherlands,Intercity Mobile Communications BV,2023-01-01 00:00:00,infinity,active
+30,204,18,nl,Netherlands,Ziggo Services,2023-01-01 00:00:00,infinity,active
+31,204,20,nl,Netherlands,T-Mobile,2023-01-01 00:00:00,infinity,active
+32,204,21,nl,Netherlands,ProRail,2023-01-01 00:00:00,infinity,active
+33,204,23,nl,Netherlands,KORE,2023-01-01 00:00:00,infinity,active
+34,204,24,nl,Netherlands,Private Mobility,2023-01-01 00:00:00,infinity,active
+35,204,26,nl,Netherlands,SpeakUp,2023-01-01 00:00:00,infinity,active
+36,204,27,nl,Netherlands,L-mobi,2023-01-01 00:00:00,infinity,active
+37,204,28,nl,Netherlands,Lancelot,2023-01-01 00:00:00,infinity,active
+38,204,29,nl,Netherlands,Tismi,2023-01-01 00:00:00,infinity,active
+39,204,299,nl,Netherlands,88 mobile,2023-01-01 00:00:00,infinity,active
+40,204,30,nl,Netherlands,ASPIDER Solutions,2023-01-01 00:00:00,infinity,active
+41,204,33,nl,Netherlands,Truphone,2023-01-01 00:00:00,infinity,active
+42,204,63,nl,Netherlands,MessageBird,2023-01-01 00:00:00,infinity,active
+43,204,68,nl,Netherlands,Unify Mobile,2023-01-01 00:00:00,infinity,active
+44,204,69,nl,Netherlands,KPN,2023-01-01 00:00:00,infinity,active
+45,204,98,nl,Netherlands,T-Mobile,2023-01-01 00:00:00,infinity,active
+46,204,999,nl,Netherlands,Fix Line,2023-01-01 00:00:00,infinity,active
+47,206,00,be,Belgium,Proximus,2023-01-01 00:00:00,infinity,active
+48,206,01,be,Belgium,Proximus,2023-01-01 00:00:00,infinity,active
+49,206,02,be,Belgium,Infrabel,2023-01-01 00:00:00,infinity,active
+50,206,04,be,Belgium,Proximus,2023-01-01 00:00:00,infinity,active
+51,206,05,be,Belgium,Telenet Mobile,2023-01-01 00:00:00,infinity,active
+52,206,06,be,Belgium,Lycamobile,2023-01-01 00:00:00,infinity,active
+53,206,07,be,Belgium,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+54,206,08,be,Belgium,VOOmobile,2023-01-01 00:00:00,infinity,active
+55,206,10,be,Belgium,Mobistar / Orange,2023-01-01 00:00:00,infinity,active
+56,206,20,be,Belgium,Base,2023-01-01 00:00:00,infinity,active
+57,206,23,be,Belgium,Dust Mobile,2023-01-01 00:00:00,infinity,active
+58,206,25,be,Belgium,Dense Air,2023-01-01 00:00:00,infinity,active
+59,206,28,be,Belgium,BICS,2023-01-01 00:00:00,infinity,active
+60,206,299,be,Belgium,GianCom,2023-01-01 00:00:00,infinity,active
+61,206,30,be,Belgium,Mobile Vikings,2023-01-01 00:00:00,infinity,active
+62,206,33,be,Belgium,Ericsson,2023-01-01 00:00:00,infinity,active
+63,206,34,be,Belgium,onoff,2023-01-01 00:00:00,infinity,active
+64,206,99,be,Belgium,Lancelot,2023-01-01 00:00:00,infinity,active
+65,206,999,be,Belgium,Fix Line,2023-01-01 00:00:00,infinity,active
+66,208,00,fr,France,Tel/Tel,2023-01-01 00:00:00,infinity,active
+67,208,01,fr,France,Orange,2023-01-01 00:00:00,infinity,active
+68,208,02,fr,France,Orange,2023-01-01 00:00:00,infinity,active
+69,208,03,fr,France,MobiquiThings,2023-01-01 00:00:00,infinity,active
+70,208,04,fr,France,Axialys,2023-01-01 00:00:00,infinity,active
+71,208,05,fr,France,GlobalStar,2023-01-01 00:00:00,infinity,active
+72,208,06,fr,France,GlobalStar,2023-01-01 00:00:00,infinity,active
+73,208,07,fr,France,GlobalStar,2023-01-01 00:00:00,infinity,active
+74,208,08,fr,France,SFR,2023-01-01 00:00:00,infinity,active
+75,208,09,fr,France,SFR,2023-01-01 00:00:00,infinity,active
+76,208,10,fr,France,SFR,2023-01-01 00:00:00,infinity,active
+77,208,11,fr,France,SFR,2023-01-01 00:00:00,infinity,active
+78,208,12,fr,France,Truphone,2023-01-01 00:00:00,infinity,active
+79,208,13,fr,France,SFR,2023-01-01 00:00:00,infinity,active
+80,208,14,fr,France,Free Mobile,2023-01-01 00:00:00,infinity,active
+81,208,15,fr,France,Free Mobile,2023-01-01 00:00:00,infinity,active
+82,208,16,fr,France,Free Mobile,2023-01-01 00:00:00,infinity,active
+83,208,17,fr,France,Legos,2023-01-01 00:00:00,infinity,active
+84,208,20,fr,France,Bouygues Telecom,2023-01-01 00:00:00,infinity,active
+85,208,21,fr,France,Bouygues Telecom,2023-01-01 00:00:00,infinity,active
+86,208,22,fr,France,Transatel,2023-01-01 00:00:00,infinity,active
+87,208,23,fr,France,Hub One,2023-01-01 00:00:00,infinity,active
+88,208,24,fr,France,MobiquiThings,2023-01-01 00:00:00,infinity,active
+89,208,25,fr,France,Lycamobile,2023-01-01 00:00:00,infinity,active
+90,208,26,fr,France,NRJ,2023-01-01 00:00:00,infinity,active
+91,208,27,fr,France,Coriolis,2023-01-01 00:00:00,infinity,active
+92,208,28,fr,France,Airmob,2023-01-01 00:00:00,infinity,active
+93,208,29,fr,France,Orange,2023-01-01 00:00:00,infinity,active
+94,208,299,fr,France,Add-On Multimedia,2023-01-01 00:00:00,infinity,active
+95,208,30,fr,France,Syma Mobile,2023-01-01 00:00:00,infinity,active
+96,208,31,fr,France,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+97,208,32,fr,France,Orange,2023-01-01 00:00:00,infinity,active
+98,208,34,fr,France,Cellhire,2023-01-01 00:00:00,infinity,active
+99,208,35,fr,France,Free Mobile,2023-01-01 00:00:00,infinity,active
+100,208,36,fr,France,Free Mobile,2023-01-01 00:00:00,infinity,active
+101,208,37,fr,France,IP Directions,2023-01-01 00:00:00,infinity,active
+102,208,38,fr,France,Lebara,2023-01-01 00:00:00,infinity,active
+103,208,39,fr,France,Networth Telecom,2023-01-01 00:00:00,infinity,active
+104,208,88,fr,France,Bouygues Telecom,2023-01-01 00:00:00,infinity,active
+105,208,89,fr,France,Hub One,2023-01-01 00:00:00,infinity,active
+106,208,91,fr,France,Orange,2023-01-01 00:00:00,infinity,active
+107,208,92,fr,France,IP Directions,2023-01-01 00:00:00,infinity,active
+108,208,94,fr,France,Halys,2023-01-01 00:00:00,infinity,active
+109,208,999,fr,France,Fix Line,2023-01-01 00:00:00,infinity,active
+110,212,01,mc,Monaco,Monaco Telecom,2023-01-01 00:00:00,infinity,active
+111,212,10,mc,Monaco,Monaco Telecom,2023-01-01 00:00:00,infinity,active
+112,213,03,ad,Andorra,Andorra Telecom / Mobiland,2023-01-01 00:00:00,infinity,active
+113,214,01,es,Spain,Vodafone,2023-01-01 00:00:00,infinity,active
+114,214,02,es,Spain,Alta Tecnologia en Comunicacions,2023-01-01 00:00:00,infinity,active
+115,214,03,es,Spain,Orange,2023-01-01 00:00:00,infinity,active
+116,214,04,es,Spain,Yoigo,2023-01-01 00:00:00,infinity,active
+117,214,05,es,Spain,Movistar,2023-01-01 00:00:00,infinity,active
+118,214,06,es,Spain,Vodafone,2023-01-01 00:00:00,infinity,active
+119,214,07,es,Spain,Movistar,2023-01-01 00:00:00,infinity,active
+120,214,08,es,Spain,Euskaltel Movil,2023-01-01 00:00:00,infinity,active
+121,214,09,es,Spain,Orange,2023-01-01 00:00:00,infinity,active
+122,214,10,es,Spain,Zinnia,2023-01-01 00:00:00,infinity,active
+123,214,11,es,Spain,Orange,2023-01-01 00:00:00,infinity,active
+124,214,12,es,Spain,Venus Movil,2023-01-01 00:00:00,infinity,active
+125,214,14,es,Spain,Avatel Movil,2023-01-01 00:00:00,infinity,active
+126,214,15,es,Spain,BT Espana  SAU,2023-01-01 00:00:00,infinity,active
+127,214,16,es,Spain,mobil R,2023-01-01 00:00:00,infinity,active
+128,214,17,es,Spain,mobil R,2023-01-01 00:00:00,infinity,active
+129,214,18,es,Spain,Cableuropa SAU (ONO),2023-01-01 00:00:00,infinity,active
+130,214,19,es,Spain,Simyo,2023-01-01 00:00:00,infinity,active
+131,214,20,es,Spain,fonYou Wireless SL,2023-01-01 00:00:00,infinity,active
+132,214,21,es,Spain,Orange,2023-01-01 00:00:00,infinity,active
+133,214,22,es,Spain,Digi.Mobil,2023-01-01 00:00:00,infinity,active
+134,214,23,es,Spain,Yoigo,2023-01-01 00:00:00,infinity,active
+135,214,25,es,Spain,Lycamobile,2023-01-01 00:00:00,infinity,active
+136,214,26,es,Spain,Lleida,2023-01-01 00:00:00,infinity,active
+137,214,27,es,Spain,Truphone,2023-01-01 00:00:00,infinity,active
+138,214,29,es,Spain,Yoigo,2023-01-01 00:00:00,infinity,active
+139,214,299,es,Spain,You Mobile,2023-01-01 00:00:00,infinity,active
+140,214,32,es,Spain,ION Mobile,2023-01-01 00:00:00,infinity,active
+141,214,33,es,Spain,Yoigo,2023-01-01 00:00:00,infinity,active
+142,214,34,es,Spain,ION MOBILE,2023-01-01 00:00:00,infinity,active
+143,214,35,es,Spain,SUMA movil,2023-01-01 00:00:00,infinity,active
+144,214,36,es,Spain,Alai,2023-01-01 00:00:00,infinity,active
+145,214,37,es,Spain,Vodafone,2023-01-01 00:00:00,infinity,active
+146,214,38,es,Spain,Movistar,2023-01-01 00:00:00,infinity,active
+147,214,999,es,Spain,Fix Line,2023-01-01 00:00:00,infinity,active
+148,216,01,hu,Hungary,Telenor,2023-01-01 00:00:00,infinity,active
+149,216,02,hu,Hungary,MVM NET,2023-01-01 00:00:00,infinity,active
+150,216,03,hu,Hungary,Digi,2023-01-01 00:00:00,infinity,active
+151,216,299,hu,Hungary,Vidanet,2023-01-01 00:00:00,infinity,active
+152,216,30,hu,Hungary,Telekom,2023-01-01 00:00:00,infinity,active
+153,216,70,hu,Hungary,Vodafone,2023-01-01 00:00:00,infinity,active
+154,216,71,hu,Hungary,Vodafone,2023-01-01 00:00:00,infinity,active
+155,216,999,hu,Hungary,Fix line,2023-01-01 00:00:00,infinity,active
+156,218,03,ba,Bosnia and Herzegovina,Eronet,2023-01-01 00:00:00,infinity,active
+157,218,05,ba,Bosnia and Herzegovina,m:tel,2023-01-01 00:00:00,infinity,active
+158,218,90,ba,Bosnia and Herzegovina,BH Mobile,2023-01-01 00:00:00,infinity,active
+159,219,01,hr,Croatia,T-Mobile,2023-01-01 00:00:00,infinity,active
+160,219,02,hr,Croatia,Telemach / Tele2,2023-01-01 00:00:00,infinity,active
+161,219,10,hr,Croatia,A1 / VIP,2023-01-01 00:00:00,infinity,active
+162,219,12,hr,Croatia,TELE FOCUS,2023-01-01 00:00:00,infinity,active
+163,219,999,hr,Croatia,Fix Line,2023-01-01 00:00:00,infinity,active
+164,220,01,rs,Serbia,Telenor,2023-01-01 00:00:00,infinity,active
+165,220,02,rs,Serbia,Telenor,2023-01-01 00:00:00,infinity,active
+166,220,03,rs,Serbia,MTS,2023-01-01 00:00:00,infinity,active
+167,220,05,rs,Serbia,VIP,2023-01-01 00:00:00,infinity,active
+168,220,11,rs,Serbia,Globaltel,2023-01-01 00:00:00,infinity,active
+169,220,20,rs,Serbia,VIP,2023-01-01 00:00:00,infinity,active
+170,220,299,rs,Serbia,Failed Calls,2023-01-01 00:00:00,infinity,active
+171,221,01,xk,Kosovo,Vala,2023-01-01 00:00:00,infinity,active
+172,221,02,xk,Kosovo,IPKO,2023-01-01 00:00:00,infinity,active
+173,221,03,xk,Kosovo,MTS,2023-01-01 00:00:00,infinity,active
+174,221,06,xk,Kosovo,Dardafon.Net LLC,2023-01-01 00:00:00,infinity,active
+175,221,07,xk,Kosovo,D3 mobile,2023-01-01 00:00:00,infinity,active
+176,221,299,xk,Kosovo,MTS,2023-01-01 00:00:00,infinity,active
+177,222,00,it,Italy,VOIP Line,2023-01-01 00:00:00,infinity,active
+178,222,01,it,Italy,TIM,2023-01-01 00:00:00,infinity,active
+179,222,02,it,Italy,Elsacom,2023-01-01 00:00:00,infinity,active
+180,222,06,it,Italy,Vodafone,2023-01-01 00:00:00,infinity,active
+181,222,07,it,Italy,Noverca Italia,2023-01-01 00:00:00,infinity,active
+182,222,08,it,Italy,Fastweb,2023-01-01 00:00:00,infinity,active
+183,222,10,it,Italy,Vodafone,2023-01-01 00:00:00,infinity,active
+184,222,299,it,Italy,Webcom,2023-01-01 00:00:00,infinity,active
+185,222,30,it,Italy,RFI,2023-01-01 00:00:00,infinity,active
+186,222,33,it,Italy,Poste Mobile,2023-01-01 00:00:00,infinity,active
+187,222,34,it,Italy,BT mobile,2023-01-01 00:00:00,infinity,active
+188,222,35,it,Italy,Lycamobile,2023-01-01 00:00:00,infinity,active
+189,222,36,it,Italy,Digi,2023-01-01 00:00:00,infinity,active
+190,222,37,it,Italy,WindTre / Hi3G,2023-01-01 00:00:00,infinity,active
+191,222,39,it,Italy,SMS.it / LINK Mobility,2023-01-01 00:00:00,infinity,active
+192,222,40,it,Italy,Agile Telecom,2023-01-01 00:00:00,infinity,active
+193,222,42,it,Italy,Enel,2023-01-01 00:00:00,infinity,active
+194,222,43,it,Italy,Telecom Italia Mobile,2023-01-01 00:00:00,infinity,active
+195,222,44,it,Italy,Mundio,2023-01-01 00:00:00,infinity,active
+196,222,48,it,Italy,Telecom Italia Mobile,2023-01-01 00:00:00,infinity,active
+197,222,49,it,Italy,Vianova Mobile,2023-01-01 00:00:00,infinity,active
+198,222,50,it,Italy,Iliad,2023-01-01 00:00:00,infinity,active
+200,222,53,it,Italy,CoopVoce,2023-01-01 00:00:00,infinity,active
+201,222,54,it,Italy,Plintron,2023-01-01 00:00:00,infinity,active
+202,222,56,it,Italy,spusu,2023-01-01 00:00:00,infinity,active
+203,222,58,it,Italy,rdcom,2023-01-01 00:00:00,infinity,active
+204,222,77,it,Italy,IPSE 2000,2023-01-01 00:00:00,infinity,active
+205,222,88,it,Italy,WindTre / WIND,2023-01-01 00:00:00,infinity,active
+206,222,99,it,Italy,WindTre / Hi3G,2023-01-01 00:00:00,infinity,active
+207,222,999,it,Italy,Fix Line,2023-01-01 00:00:00,infinity,active
+208,225,299,va,Vatican,Failed Calls,2023-01-01 00:00:00,infinity,active
+209,226,01,ro,Romania,Vodafone,2023-01-01 00:00:00,infinity,active
+210,226,02,ro,Romania,Telekom,2023-01-01 00:00:00,infinity,active
+211,226,03,ro,Romania,Telekom,2023-01-01 00:00:00,infinity,active
+212,226,04,ro,Romania,Telekom Romania,2023-01-01 00:00:00,infinity,active
+213,226,05,ro,Romania,Digi Mobil,2023-01-01 00:00:00,infinity,active
+214,226,06,ro,Romania,Telekom Romania,2023-01-01 00:00:00,infinity,active
+215,226,10,ro,Romania,Orange,2023-01-01 00:00:00,infinity,active
+216,226,11,ro,Romania,Enigma Systems,2023-01-01 00:00:00,infinity,active
+217,226,16,ro,Romania,Lycamobile,2023-01-01 00:00:00,infinity,active
+218,226,299,ro,Romania,Iristel,2023-01-01 00:00:00,infinity,active
+219,228,01,ch,Switzerland,Swisscom,2023-01-01 00:00:00,infinity,active
+220,228,02,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+221,228,03,ch,Switzerland,Salt Mobile,2023-01-01 00:00:00,infinity,active
+222,228,05,ch,Switzerland,Comfone,2023-01-01 00:00:00,infinity,active
+223,228,06,ch,Switzerland,SBB,2023-01-01 00:00:00,infinity,active
+224,228,07,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+225,228,08,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+226,228,09,ch,Switzerland,Comfone,2023-01-01 00:00:00,infinity,active
+227,228,12,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+228,228,51,ch,Switzerland,relario,2023-01-01 00:00:00,infinity,active
+229,228,52,ch,Switzerland,Mundio Mobile AG,2023-01-01 00:00:00,infinity,active
+230,228,53,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+231,228,54,ch,Switzerland,Lycamobile,2023-01-01 00:00:00,infinity,active
+232,228,58,ch,Switzerland,Beeone,2023-01-01 00:00:00,infinity,active
+233,228,59,ch,Switzerland,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+234,228,60,ch,Switzerland,Sunrise,2023-01-01 00:00:00,infinity,active
+235,228,62,ch,Switzerland,Telecom26,2023-01-01 00:00:00,infinity,active
+236,228,65,ch,Switzerland,Nexphone,2023-01-01 00:00:00,infinity,active
+237,228,66,ch,Switzerland,Inovia,2023-01-01 00:00:00,infinity,active
+238,228,69,ch,Switzerland,MTEL,2023-01-01 00:00:00,infinity,active
+239,228,70,ch,Switzerland,Tismi,2023-01-01 00:00:00,infinity,active
+240,228,999,ch,Switzerland,Fix Line,2023-01-01 00:00:00,infinity,active
+241,230,01,cz,Czech Republic,T-Mobile,2023-01-01 00:00:00,infinity,active
+242,230,02,cz,Czech Republic,O2,2023-01-01 00:00:00,infinity,active
+243,230,03,cz,Czech Republic,Vodafone,2023-01-01 00:00:00,infinity,active
+244,230,04,cz,Czech Republic,Nordic Telecom,2023-01-01 00:00:00,infinity,active
+245,230,05,cz,Czech Republic,PODA,2023-01-01 00:00:00,infinity,active
+246,230,07,cz,Czech Republic,T-Mobile,2023-01-01 00:00:00,infinity,active
+247,230,08,cz,Czech Republic,Compatel,2023-01-01 00:00:00,infinity,active
+248,230,09,cz,Czech Republic,Uniphone,2023-01-01 00:00:00,infinity,active
+249,230,299,cz,Czech Republic,Uniphone,2023-01-01 00:00:00,infinity,active
+250,230,98,cz,Czech Republic,SZDC,2023-01-01 00:00:00,infinity,active
+251,230,99,cz,Czech Republic,Vodafone,2023-01-01 00:00:00,infinity,active
+252,230,999,cz,Czech Republic,Fix Line,2023-01-01 00:00:00,infinity,active
+253,231,01,sk,Slovakia,Orange,2023-01-01 00:00:00,infinity,active
+254,231,02,sk,Slovakia,Telekom,2023-01-01 00:00:00,infinity,active
+255,231,03,sk,Slovakia,Swan / 4ka,2023-01-01 00:00:00,infinity,active
+256,231,04,sk,Slovakia,Telekom,2023-01-01 00:00:00,infinity,active
+257,231,05,sk,Slovakia,Orange,2023-01-01 00:00:00,infinity,active
+258,231,06,sk,Slovakia,O2,2023-01-01 00:00:00,infinity,active
+259,231,07,sk,Slovakia,Orange,2023-01-01 00:00:00,infinity,active
+260,231,08,sk,Slovakia,Uniphone,2023-01-01 00:00:00,infinity,active
+261,231,15,sk,Slovakia,Orange,2023-01-01 00:00:00,infinity,active
+262,231,299,sk,Slovakia,Vonage,2023-01-01 00:00:00,infinity,active
+263,231,50,sk,Slovakia,Telekom,2023-01-01 00:00:00,infinity,active
+264,231,99,sk,Slovakia,ZSR,2023-01-01 00:00:00,infinity,active
+265,232,01,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+266,232,02,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+267,232,03,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+268,232,04,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+269,232,05,at,Austria,Hutchinson Drei,2023-01-01 00:00:00,infinity,active
+270,232,06,at,Austria,Hutchison Drei / 3,2023-01-01 00:00:00,infinity,active
+271,232,07,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+272,232,08,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+273,232,09,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+274,232,10,at,Austria,Hutchinson Drei,2023-01-01 00:00:00,infinity,active
+275,232,11,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+276,232,12,at,Austria,A1 Telekom,2023-01-01 00:00:00,infinity,active
+277,232,13,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+278,232,14,at,Austria,Hutchinson Drei,2023-01-01 00:00:00,infinity,active
+279,232,15,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+280,232,16,at,Austria,Hutchinson Drei,2023-01-01 00:00:00,infinity,active
+281,232,17,at,Austria,Mass Response Service,2023-01-01 00:00:00,infinity,active
+282,232,18,at,Austria,smartspace,2023-01-01 00:00:00,infinity,active
+283,232,19,at,Austria,Hutchinson Drei,2023-01-01 00:00:00,infinity,active
+284,232,20,at,Austria,Mtel,2023-01-01 00:00:00,infinity,active
+285,232,22,at,Austria,Plintron,2023-01-01 00:00:00,infinity,active
+286,232,23,at,Austria,T-Mobile / Magenta,2023-01-01 00:00:00,infinity,active
+287,232,24,at,Austria,Smartel Services,2023-01-01 00:00:00,infinity,active
+288,232,25,at,Austria,Holding Graz,2023-01-01 00:00:00,infinity,active
+289,232,26,at,Austria,LIWEST Mobil,2023-01-01 00:00:00,infinity,active
+290,232,27,at,Austria,Tismi,2023-01-01 00:00:00,infinity,active
+291,232,299,at,Austria,Tismi,2023-01-01 00:00:00,infinity,active
+292,232,91,at,Austria,OBB Infrastruktur,2023-01-01 00:00:00,infinity,active
+293,232,999,at,Austria,Fix Line,2023-01-01 00:00:00,infinity,active
+294,234,00,gb,United Kingdom,BT Group,2023-01-01 00:00:00,infinity,active
+295,234,01,gb,United Kingdom,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+296,234,02,gb,United Kingdom,O2,2023-01-01 00:00:00,infinity,active
+297,234,03,gb,United Kingdom,Jersey Airtel,2023-01-01 00:00:00,infinity,active
+298,234,04,gb,United Kingdom,FMS Solutions,2023-01-01 00:00:00,infinity,active
+299,234,07,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+300,234,08,gb,United Kingdom,BT OnePhone,2023-01-01 00:00:00,infinity,active
+301,234,09,gb,United Kingdom,Tismi,2023-01-01 00:00:00,infinity,active
+302,234,10,gb,United Kingdom,O2,2023-01-01 00:00:00,infinity,active
+303,234,11,gb,United Kingdom,O2,2023-01-01 00:00:00,infinity,active
+304,234,12,gb,United Kingdom,Network Rail,2023-01-01 00:00:00,infinity,active
+305,234,13,gb,United Kingdom,Network Rail,2023-01-01 00:00:00,infinity,active
+306,234,14,gb,United Kingdom,LINK Mobility,2023-01-01 00:00:00,infinity,active
+307,234,15,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+308,234,16,gb,United Kingdom,Talk Talk,2023-01-01 00:00:00,infinity,active
+309,234,17,gb,United Kingdom,FlexTel,2023-01-01 00:00:00,infinity,active
+310,234,18,gb,United Kingdom,Cloud9,2023-01-01 00:00:00,infinity,active
+311,234,19,gb,United Kingdom,TeleWare,2023-01-01 00:00:00,infinity,active
+312,234,20,gb,United Kingdom,3,2023-01-01 00:00:00,infinity,active
+313,234,22,gb,United Kingdom,Telesign Mobile,2023-01-01 00:00:00,infinity,active
+314,234,23,gb,United Kingdom,Icron Network,2023-01-01 00:00:00,infinity,active
+315,234,24,gb,United Kingdom,Greenfone,2023-01-01 00:00:00,infinity,active
+316,234,25,gb,United Kingdom,Truphone,2023-01-01 00:00:00,infinity,active
+317,234,26,gb,United Kingdom,Lycamobile,2023-01-01 00:00:00,infinity,active
+318,234,27,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+319,234,28,gb,United Kingdom,Marathon Telecom,2023-01-01 00:00:00,infinity,active
+320,234,29,gb,United Kingdom,aql,2023-01-01 00:00:00,infinity,active
+321,234,30,gb,United Kingdom,T-Mobile,2023-01-01 00:00:00,infinity,active
+322,234,31,gb,United Kingdom,T-Mobile,2023-01-01 00:00:00,infinity,active
+323,234,32,gb,United Kingdom,T-Mobile,2023-01-01 00:00:00,infinity,active
+324,234,33,gb,United Kingdom,Orange,2023-01-01 00:00:00,infinity,active
+325,234,34,gb,United Kingdom,Orange,2023-01-01 00:00:00,infinity,active
+326,234,35,gb,United Kingdom,JSC Ingenicum,2023-01-01 00:00:00,infinity,active
+327,234,36,gb,United Kingdom,Sure Isle of Man,2023-01-01 00:00:00,infinity,active
+328,234,37,gb,United Kingdom,Synectiv,2023-01-01 00:00:00,infinity,active
+329,234,38,gb,United Kingdom,Virgin Mobile,2023-01-01 00:00:00,infinity,active
+330,234,39,gb,United Kingdom,Gamma Mobile,2023-01-01 00:00:00,infinity,active
+331,234,40,gb,United Kingdom,spusu,2023-01-01 00:00:00,infinity,active
+332,234,50,gb,United Kingdom,JT Mobile,2023-01-01 00:00:00,infinity,active
+333,234,51,gb,United Kingdom,now broadband,2023-01-01 00:00:00,infinity,active
+334,234,55,gb,United Kingdom,Sure Guernsey,2023-01-01 00:00:00,infinity,active
+335,234,56,gb,United Kingdom,NCSC,2023-01-01 00:00:00,infinity,active
+336,234,57,gb,United Kingdom,Sky,2023-01-01 00:00:00,infinity,active
+337,234,58,gb,United Kingdom,Manx Telecom Mobile,2023-01-01 00:00:00,infinity,active
+338,234,71,gb,United Kingdom,Home Office,2023-01-01 00:00:00,infinity,active
+339,234,72,gb,United Kingdom,Hanhaa Mobile,2023-01-01 00:00:00,infinity,active
+340,234,74,gb,United Kingdom,Pareteum,2023-01-01 00:00:00,infinity,active
+341,234,75,gb,United Kingdom,Mass Response Service GmbH,2023-01-01 00:00:00,infinity,active
+342,234,76,gb,United Kingdom,BT Group,2023-01-01 00:00:00,infinity,active
+343,234,77,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+344,234,78,gb,United Kingdom,Airwave,2023-01-01 00:00:00,infinity,active
+345,234,89,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+346,234,91,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+347,234,92,gb,United Kingdom,Vodafone,2023-01-01 00:00:00,infinity,active
+348,234,94,gb,United Kingdom,3,2023-01-01 00:00:00,infinity,active
+349,234,95,gb,United Kingdom,Network Rail,2023-01-01 00:00:00,infinity,active
+350,234,99,gb,United Kingdom,Ziron,2023-01-01 00:00:00,infinity,active
+351,234,998,gb,United Kingdom,Virgin Mobile,2023-01-01 00:00:00,infinity,active
+352,234,999,gb,United Kingdom,Fix Line,2023-01-01 00:00:00,infinity,active
+353,235,02,gb,United Kingdom,Everyth. Ev.wh.,2023-01-01 00:00:00,infinity,active
+354,238,01,dk,Denmark,TDC,2023-01-01 00:00:00,infinity,active
+355,238,02,dk,Denmark,Telenor,2023-01-01 00:00:00,infinity,active
+356,238,03,dk,Denmark,Syniverse Technologies,2023-01-01 00:00:00,infinity,active
+357,238,04,dk,Denmark,Nexcon.io,2023-01-01 00:00:00,infinity,active
+358,238,05,dk,Denmark,UNKNOWN,2023-01-01 00:00:00,infinity,active
+359,238,06,dk,Denmark,3,2023-01-01 00:00:00,infinity,active
+360,238,07,dk,Denmark,Mundio Mobile,2023-01-01 00:00:00,infinity,active
+361,238,08,dk,Denmark,Voxbone / Bandwidth,2023-01-01 00:00:00,infinity,active
+362,238,10,dk,Denmark,TDC,2023-01-01 00:00:00,infinity,active
+363,238,12,dk,Denmark,Lycamobile,2023-01-01 00:00:00,infinity,active
+364,238,13,dk,Denmark,Compatel,2023-01-01 00:00:00,infinity,active
+365,238,14,dk,Denmark,Monty Mobile,2023-01-01 00:00:00,infinity,active
+366,238,15,dk,Denmark,Net 1,2023-01-01 00:00:00,infinity,active
+367,238,16,dk,Denmark,Tismi,2023-01-01 00:00:00,infinity,active
+368,238,17,dk,Denmark,Gotanet,2023-01-01 00:00:00,infinity,active
+369,238,20,dk,Denmark,Telia,2023-01-01 00:00:00,infinity,active
+370,238,23,dk,Denmark,Banedanmark,2023-01-01 00:00:00,infinity,active
+371,238,25,dk,Denmark,Viahub,2023-01-01 00:00:00,infinity,active
+372,238,28,dk,Denmark,LINK Mobility,2023-01-01 00:00:00,infinity,active
+373,238,30,dk,Denmark,Telia,2023-01-01 00:00:00,infinity,active
+374,238,42,dk,Denmark,Greenwave,2023-01-01 00:00:00,infinity,active
+375,238,73,dk,Denmark,Onomondo,2023-01-01 00:00:00,infinity,active
+376,238,77,dk,Denmark,Telenor,2023-01-01 00:00:00,infinity,active
+377,238,88,dk,Denmark,Cobira,2023-01-01 00:00:00,infinity,active
+378,238,96,dk,Denmark,Telia,2023-01-01 00:00:00,infinity,active
+379,238,999,dk,Denmark,Fix Line,2023-01-01 00:00:00,infinity,active
+380,240,01,se,Sweden,Telia,2023-01-01 00:00:00,infinity,active
+381,240,02,se,Sweden,3,2023-01-01 00:00:00,infinity,active
+382,240,03,se,Sweden,Net 1,2023-01-01 00:00:00,infinity,active
+383,240,04,se,Sweden,Telenor,2023-01-01 00:00:00,infinity,active
+384,240,05,se,Sweden,Tele2,2023-01-01 00:00:00,infinity,active
+385,240,06,se,Sweden,Telenor,2023-01-01 00:00:00,infinity,active
+386,240,07,se,Sweden,Tele2,2023-01-01 00:00:00,infinity,active
+387,240,08,se,Sweden,Telenor,2023-01-01 00:00:00,infinity,active
+388,240,09,se,Sweden,Com4,2023-01-01 00:00:00,infinity,active
+389,240,10,se,Sweden,Spring Mobil AB,2023-01-01 00:00:00,infinity,active
+390,240,11,se,Sweden,Com Hem,2023-01-01 00:00:00,infinity,active
+391,240,12,se,Sweden,Lycamobile,2023-01-01 00:00:00,infinity,active
+392,240,13,se,Sweden,A3,2023-01-01 00:00:00,infinity,active
+393,240,14,se,Sweden,Tele2,2023-01-01 00:00:00,infinity,active
+394,240,15,se,Sweden,Sierra Wireless Sweden AB,2023-01-01 00:00:00,infinity,active
+395,240,16,se,Sweden,42 Telecom AB,2023-01-01 00:00:00,infinity,active
+396,240,17,se,Sweden,Gotanet,2023-01-01 00:00:00,infinity,active
+397,240,18,se,Sweden,Messit / Minicall,2023-01-01 00:00:00,infinity,active
+398,240,19,se,Sweden,Vectone Mobile,2023-01-01 00:00:00,infinity,active
+399,240,20,se,Sweden,Sierra Wireless,2023-01-01 00:00:00,infinity,active
+400,240,21,se,Sweden,Trafikverket,2023-01-01 00:00:00,infinity,active
+401,240,22,se,Sweden,EUtel,2023-01-01 00:00:00,infinity,active
+402,240,23,se,Sweden,Infobip,2023-01-01 00:00:00,infinity,active
+403,240,24,se,Sweden,Telenor,2023-01-01 00:00:00,infinity,active
+404,240,25,se,Sweden,Monty Mobile,2023-01-01 00:00:00,infinity,active
+405,240,26,se,Sweden,Twilio,2023-01-01 00:00:00,infinity,active
+406,240,27,se,Sweden,Globetouch,2023-01-01 00:00:00,infinity,active
+407,240,28,se,Sweden,LINK Mobility,2023-01-01 00:00:00,infinity,active
+408,240,29,se,Sweden,MI Carrier Services,2023-01-01 00:00:00,infinity,active
+409,240,30,se,Sweden,NextGen Mobile Ltd (CardBoardFish),2023-01-01 00:00:00,infinity,active
+410,240,31,se,Sweden,Rebtel,2023-01-01 00:00:00,infinity,active
+411,240,32,se,Sweden,Compatel,2023-01-01 00:00:00,infinity,active
+412,240,33,se,Sweden,Mobile Arts,2023-01-01 00:00:00,infinity,active
+413,240,35,se,Sweden,42 Telecom,2023-01-01 00:00:00,infinity,active
+414,240,36,se,Sweden,interactive digital media / IDM,2023-01-01 00:00:00,infinity,active
+415,240,37,se,Sweden,Sinch,2023-01-01 00:00:00,infinity,active
+416,240,38,se,Sweden,Voxbone / Bandwidth,2023-01-01 00:00:00,infinity,active
+417,240,39,se,Sweden,Primlight,2023-01-01 00:00:00,infinity,active
+418,240,40,se,Sweden,Netmore,2023-01-01 00:00:00,infinity,active
+419,240,42,se,Sweden,Telenor Connexion,2023-01-01 00:00:00,infinity,active
+420,240,43,se,Sweden,MobiWeb,2023-01-01 00:00:00,infinity,active
+421,240,44,se,Sweden,Telenabler,2023-01-01 00:00:00,infinity,active
+422,240,45,se,Sweden,Spirius,2023-01-01 00:00:00,infinity,active
+423,240,46,se,Sweden,Viahub,2023-01-01 00:00:00,infinity,active
+424,240,47,se,Sweden,Viatel,2023-01-01 00:00:00,infinity,active
+425,240,48,se,Sweden,Tismi,2023-01-01 00:00:00,infinity,active
+426,240,63,se,Sweden,Fink Telecom,2023-01-01 00:00:00,infinity,active
+427,240,999,se,Sweden,Fix Line,2023-01-01 00:00:00,infinity,active
+428,242,01,no,Norway,Telenor,2023-01-01 00:00:00,infinity,active
+429,242,017,no,Norway,Ventelo AS,2023-01-01 00:00:00,infinity,active
+430,242,02,no,Norway,Telia / NetCom,2023-01-01 00:00:00,infinity,active
+431,242,03,no,Norway,Teletopia,2023-01-01 00:00:00,infinity,active
+432,242,04,no,Norway,Tele2,2023-01-01 00:00:00,infinity,active
+433,242,05,no,Norway,Network Norway,2023-01-01 00:00:00,infinity,active
+434,242,06,no,Norway,ICE,2023-01-01 00:00:00,infinity,active
+435,242,07,no,Norway,Ventelo AS,2023-01-01 00:00:00,infinity,active
+436,242,08,no,Norway,Telia / NetCom,2023-01-01 00:00:00,infinity,active
+437,242,09,no,Norway,Com4,2023-01-01 00:00:00,infinity,active
+438,242,10,no,Norway,Nkom,2023-01-01 00:00:00,infinity,active
+439,242,12,no,Norway,Telenor,2023-01-01 00:00:00,infinity,active
+440,242,14,no,Norway,ICE,2023-01-01 00:00:00,infinity,active
+441,242,15,no,Norway,eRate,2023-01-01 00:00:00,infinity,active
+442,242,16,no,Norway,Iristel,2023-01-01 00:00:00,infinity,active
+443,242,20,no,Norway,BANE NOR,2023-01-01 00:00:00,infinity,active
+444,242,21,no,Norway,BANE NOR,2023-01-01 00:00:00,infinity,active
+445,242,22,no,Norway,Altibox Mobil,2023-01-01 00:00:00,infinity,active
+446,242,23,no,Norway,Lycamobile,2023-01-01 00:00:00,infinity,active
+447,242,299,no,Norway,unifon,2023-01-01 00:00:00,infinity,active
+448,242,999,no,Norway,Fix Line,2023-01-01 00:00:00,infinity,active
+449,244,03,fi,Finland,DNA,2023-01-01 00:00:00,infinity,active
+450,244,04,fi,Finland,DNA,2023-01-01 00:00:00,infinity,active
+451,244,05,fi,Finland,Elisa,2023-01-01 00:00:00,infinity,active
+452,244,06,fi,Finland,Elisa,2023-01-01 00:00:00,infinity,active
+453,244,07,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+454,244,08,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+455,244,09,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+456,244,10,fi,Finland,TDC Oy Finland,2023-01-01 00:00:00,infinity,active
+457,244,11,fi,Finland,Viahub,2023-01-01 00:00:00,infinity,active
+458,244,12,fi,Finland,DNA,2023-01-01 00:00:00,infinity,active
+459,244,13,fi,Finland,DNA,2023-01-01 00:00:00,infinity,active
+460,244,14,fi,Finland,Alcom,2023-01-01 00:00:00,infinity,active
+461,244,15,fi,Finland,Telit,2023-01-01 00:00:00,infinity,active
+462,244,21,fi,Finland,Elisa,2023-01-01 00:00:00,infinity,active
+463,244,24,fi,Finland,Nord Connect,2023-01-01 00:00:00,infinity,active
+464,244,26,fi,Finland,Compatel,2023-01-01 00:00:00,infinity,active
+465,244,299,fi,Finland,Twilio,2023-01-01 00:00:00,infinity,active
+466,244,32,fi,Finland,Voxbone / Bandwidth,2023-01-01 00:00:00,infinity,active
+467,244,33,fi,Finland,VIRVE,2023-01-01 00:00:00,infinity,active
+468,244,35,fi,Finland,Ukko Mobile,2023-01-01 00:00:00,infinity,active
+469,244,36,fi,Finland,Telia,2023-01-01 00:00:00,infinity,active
+470,244,37,fi,Finland,Tismi,2023-01-01 00:00:00,infinity,active
+471,244,38,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+472,244,39,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+473,244,40,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+474,244,41,fi,Finland,NSN,2023-01-01 00:00:00,infinity,active
+475,244,42,fi,Finland,Viahub,2023-01-01 00:00:00,infinity,active
+476,244,43,fi,Finland,Telavox,2023-01-01 00:00:00,infinity,active
+477,244,45,fi,Finland,VIRVE,2023-01-01 00:00:00,infinity,active
+478,244,46,fi,Finland,VIRVE,2023-01-01 00:00:00,infinity,active
+479,244,47,fi,Finland,VIRVE,2023-01-01 00:00:00,infinity,active
+480,244,82,fi,Finland,interactive digital media / IDM,2023-01-01 00:00:00,infinity,active
+481,244,91,fi,Finland,Telia,2023-01-01 00:00:00,infinity,active
+482,246,01,lt,Lithuania,Telia,2023-01-01 00:00:00,infinity,active
+483,246,02,lt,Lithuania,Bite,2023-01-01 00:00:00,infinity,active
+484,246,03,lt,Lithuania,Tele2,2023-01-01 00:00:00,infinity,active
+485,246,05,lt,Lithuania,LTG,2023-01-01 00:00:00,infinity,active
+486,246,06,lt,Lithuania,Mediafon,2023-01-01 00:00:00,infinity,active
+487,246,299,lt,Lithuania,Teletel,2023-01-01 00:00:00,infinity,active
+488,247,01,lv,Latvia,LMT,2023-01-01 00:00:00,infinity,active
+489,247,02,lv,Latvia,Tele2,2023-01-01 00:00:00,infinity,active
+490,247,03,lv,Latvia,TRIATEL,2023-01-01 00:00:00,infinity,active
+491,247,04,lv,Latvia,Tet,2023-01-01 00:00:00,infinity,active
+492,247,05,lv,Latvia,Bite,2023-01-01 00:00:00,infinity,active
+493,247,06,lv,Latvia,SIA Rigatta,2023-01-01 00:00:00,infinity,active
+494,247,07,lv,Latvia,SIA Master Telecom,2023-01-01 00:00:00,infinity,active
+495,247,08,lv,Latvia,VENTA Mobile,2023-01-01 00:00:00,infinity,active
+496,247,09,lv,Latvia,XOmobile,2023-01-01 00:00:00,infinity,active
+497,247,10,lv,Latvia,LMT,2023-01-01 00:00:00,infinity,active
+498,247,299,lv,Latvia,Premium Numbers,2023-01-01 00:00:00,infinity,active
+499,248,01,ee,Estonia,Telia,2023-01-01 00:00:00,infinity,active
+500,248,02,ee,Estonia,Elisa,2023-01-01 00:00:00,infinity,active
+501,248,03,ee,Estonia,Tele2,2023-01-01 00:00:00,infinity,active
+502,248,04,ee,Estonia,TravelSim,2023-01-01 00:00:00,infinity,active
+503,248,13,ee,Estonia,Telia,2023-01-01 00:00:00,infinity,active
+504,250,01,ru,Russia,MTS,2023-01-01 00:00:00,infinity,active
+505,250,02,ru,Russia,Megafon,2023-01-01 00:00:00,infinity,active
+506,250,03,ru,Russia,NCC,2023-01-01 00:00:00,infinity,active
+507,250,04,ru,Russia,Sibchallenge,2023-01-01 00:00:00,infinity,active
+508,250,05,ru,Russia,Tele2/ECC/Volgogr.,2023-01-01 00:00:00,infinity,active
+509,250,07,ru,Russia,ZAO SMARTS,2023-01-01 00:00:00,infinity,active
+510,250,09,ru,Russia,Skylink,2023-01-01 00:00:00,infinity,active
+511,250,10,ru,Russia,DTC/Don Telecom,2023-01-01 00:00:00,infinity,active
+512,250,11,ru,Russia,Yota,2023-01-01 00:00:00,infinity,active
+513,250,12,ru,Russia,Tele2,2023-01-01 00:00:00,infinity,active
+514,250,13,ru,Russia,Kuban GSM,2023-01-01 00:00:00,infinity,active
+515,250,15,ru,Russia,ZAO SMARTS,2023-01-01 00:00:00,infinity,active
+516,250,16,ru,Russia,NTC,2023-01-01 00:00:00,infinity,active
+517,250,17,ru,Russia,UralTel,2023-01-01 00:00:00,infinity,active
+518,250,19,ru,Russia,OJSC Altaysvyaz,2023-01-01 00:00:00,infinity,active
+519,250,20,ru,Russia,Tele2,2023-01-01 00:00:00,infinity,active
+520,250,28,ru,Russia,BeeLine/VimpelCom,2023-01-01 00:00:00,infinity,active
+521,250,299,ru,Russia,VTB Mobile,2023-01-01 00:00:00,infinity,active
+522,250,32,ru,Russia,Win Mobile,2023-01-01 00:00:00,infinity,active
+523,250,33,ru,Russia,SEVTELECOM,2023-01-01 00:00:00,infinity,active
+524,250,34,ru,Russia,Krymtelecom,2023-01-01 00:00:00,infinity,active
+525,250,35,ru,Russia,Motiv,2023-01-01 00:00:00,infinity,active
+526,250,39,ru,Russia,UralTel,2023-01-01 00:00:00,infinity,active
+527,250,42,ru,Russia,MTT,2023-01-01 00:00:00,infinity,active
+528,250,44,ru,Russia,StavTelesot,2023-01-01 00:00:00,infinity,active
+529,250,48,ru,Russia,Global Telecom,2023-01-01 00:00:00,infinity,active
+530,250,54,ru,Russia,Letai Mobile,2023-01-01 00:00:00,infinity,active
+531,250,55,ru,Russia,Glonass,2023-01-01 00:00:00,infinity,active
+532,250,57,ru,Russia,Matrix Mobile,2023-01-01 00:00:00,infinity,active
+533,250,60,ru,Russia,Volna Mobile,2023-01-01 00:00:00,infinity,active
+534,250,77,ru,Russia,Glonass,2023-01-01 00:00:00,infinity,active
+535,250,92,ru,Russia,Printelefone,2023-01-01 00:00:00,infinity,active
+536,250,93,ru,Russia,Telecom XXL,2023-01-01 00:00:00,infinity,active
+537,250,99,ru,Russia,Beeline,2023-01-01 00:00:00,infinity,active
+538,250,999,ru,Russia,Fix Line,2023-01-01 00:00:00,infinity,active
+539,255,01,ua,Ukraine,Vodafone,2023-01-01 00:00:00,infinity,active
+540,255,02,ua,Ukraine,Kyivstar,2023-01-01 00:00:00,infinity,active
+541,255,03,ua,Ukraine,KyivStar,2023-01-01 00:00:00,infinity,active
+542,255,04,ua,Ukraine,IT,2023-01-01 00:00:00,infinity,active
+543,255,05,ua,Ukraine,Golden Telecom,2023-01-01 00:00:00,infinity,active
+544,255,06,ua,Ukraine,lifecell,2023-01-01 00:00:00,infinity,active
+545,255,07,ua,Ukraine,3Mob,2023-01-01 00:00:00,infinity,active
+546,255,21,ua,Ukraine,PEOPLEnet,2023-01-01 00:00:00,infinity,active
+547,255,39,ua,Ukraine,Golden Telecom,2023-01-01 00:00:00,infinity,active
+548,255,50,ua,Ukraine,Vodafone,2023-01-01 00:00:00,infinity,active
+549,255,67,ua,Ukraine,KyivStar,2023-01-01 00:00:00,infinity,active
+550,255,68,ua,Ukraine,Kyivstar,2023-01-01 00:00:00,infinity,active
+551,255,99,ua,Ukraine,Phoenix,2023-01-01 00:00:00,infinity,active
+552,257,01,by,Belarus,velcom A1,2023-01-01 00:00:00,infinity,active
+553,257,02,by,Belarus,MTS,2023-01-01 00:00:00,infinity,active
+554,257,03,by,Belarus,BelCel JV,2023-01-01 00:00:00,infinity,active
+555,257,04,by,Belarus,life:),2023-01-01 00:00:00,infinity,active
+556,259,01,md,Moldova,Orange,2023-01-01 00:00:00,infinity,active
+557,259,02,md,Moldova,Moldcell,2023-01-01 00:00:00,infinity,active
+558,259,03,md,Moldova,Unite,2023-01-01 00:00:00,infinity,active
+559,259,04,md,Moldova,Eventis Mobile,2023-01-01 00:00:00,infinity,active
+560,259,05,md,Moldova,Unite,2023-01-01 00:00:00,infinity,active
+561,259,99,md,Moldova,Unite,2023-01-01 00:00:00,infinity,active
+562,260,01,pl,Poland,Plus,2023-01-01 00:00:00,infinity,active
+563,260,02,pl,Poland,T-Mobile,2023-01-01 00:00:00,infinity,active
+564,260,03,pl,Poland,Orange,2023-01-01 00:00:00,infinity,active
+565,260,04,pl,Poland,Aero2,2023-01-01 00:00:00,infinity,active
+566,260,05,pl,Poland,Orange,2023-01-01 00:00:00,infinity,active
+567,260,06,pl,Poland,Play,2023-01-01 00:00:00,infinity,active
+568,260,07,pl,Poland,Netia,2023-01-01 00:00:00,infinity,active
+569,260,08,pl,Poland,e-Telko,2023-01-01 00:00:00,infinity,active
+570,260,09,pl,Poland,Lycamobile,2023-01-01 00:00:00,infinity,active
+571,260,10,pl,Poland,T-Mobile,2023-01-01 00:00:00,infinity,active
+572,260,11,pl,Poland,Plus,2023-01-01 00:00:00,infinity,active
+573,260,12,pl,Poland,Cyfrowy Polsat,2023-01-01 00:00:00,infinity,active
+574,260,13,pl,Poland,Move,2023-01-01 00:00:00,infinity,active
+575,260,14,pl,Poland,Telco Leaders,2023-01-01 00:00:00,infinity,active
+576,260,15,pl,Poland,Aero2,2023-01-01 00:00:00,infinity,active
+577,260,16,pl,Poland,Aero2,2023-01-01 00:00:00,infinity,active
+578,260,17,pl,Poland,Aero2,2023-01-01 00:00:00,infinity,active
+579,260,18,pl,Poland,AMD Telecom,2023-01-01 00:00:00,infinity,active
+580,260,19,pl,Poland,NetBalt,2023-01-01 00:00:00,infinity,active
+581,260,20,pl,Poland,Tismi,2023-01-01 00:00:00,infinity,active
+582,260,22,pl,Poland,Twilio,2023-01-01 00:00:00,infinity,active
+583,260,27,pl,Poland,Ntel Solutions,2023-01-01 00:00:00,infinity,active
+584,260,299,pl,Poland,3S,2023-01-01 00:00:00,infinity,active
+585,260,32,pl,Poland,Compatel,2023-01-01 00:00:00,infinity,active
+586,260,34,pl,Poland,T-Mobile,2023-01-01 00:00:00,infinity,active
+587,260,35,pl,Poland,PKP,2023-01-01 00:00:00,infinity,active
+588,260,36,pl,Poland,Mundio Mobile Sp. z o.o.,2023-01-01 00:00:00,infinity,active
+589,260,38,pl,Poland,CallFreedom Sp. z o.o.,2023-01-01 00:00:00,infinity,active
+590,260,39,pl,Poland,Voxbone / Bandwidth,2023-01-01 00:00:00,infinity,active
+591,260,41,pl,Poland,EZ Mobile,2023-01-01 00:00:00,infinity,active
+592,260,42,pl,Poland,MobiWeb,2023-01-01 00:00:00,infinity,active
+593,260,45,pl,Poland,Virgin Mobile,2023-01-01 00:00:00,infinity,active
+594,260,47,pl,Poland,SMSHIGHWAY,2023-01-01 00:00:00,infinity,active
+595,260,48,pl,Poland,Agile Telecom,2023-01-01 00:00:00,infinity,active
+596,260,49,pl,Poland,Messagebird,2023-01-01 00:00:00,infinity,active
+597,260,90,pl,Poland,Polska Spolka Gazownictwa,2023-01-01 00:00:00,infinity,active
+598,260,97,pl,Poland,Politechnika Lodzka Uczelniane,2023-01-01 00:00:00,infinity,active
+599,260,98,pl,Poland,Play,2023-01-01 00:00:00,infinity,active
+600,260,999,pl,Poland,Fix Line,2023-01-01 00:00:00,infinity,active
+601,262,01,de,Germany,Telekom / T-mobile,2023-01-01 00:00:00,infinity,active
+602,262,02,de,Germany,Vodafone,2023-01-01 00:00:00,infinity,active
+603,262,03,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+604,262,04,de,Germany,Vodafone,2023-01-01 00:00:00,infinity,active
+605,262,05,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+606,262,06,de,Germany,Telekom / T-mobile,2023-01-01 00:00:00,infinity,active
+607,262,07,de,Germany,Telefonica / O2,2023-01-01 00:00:00,infinity,active
+608,262,08,de,Germany,Telefonica / O2,2023-01-01 00:00:00,infinity,active
+609,262,09,de,Germany,Vodafone,2023-01-01 00:00:00,infinity,active
+610,262,10,de,Germany,DB Netz,2023-01-01 00:00:00,infinity,active
+611,262,11,de,Germany,Telefonica / O2,2023-01-01 00:00:00,infinity,active
+612,262,12,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+613,262,13,de,Germany,Bundesamt fĂĽr AusrĂĽstung Informationstechnik und Nutzung der Bundeswehr,2023-01-01 00:00:00,infinity,active
+614,262,14,de,Germany,Lebara,2023-01-01 00:00:00,infinity,active
+615,262,16,de,Germany,Telefonica / O2,2023-01-01 00:00:00,infinity,active
+616,262,17,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+617,262,20,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+618,262,21,de,Germany,Multiconnect,2023-01-01 00:00:00,infinity,active
+619,262,22,de,Germany,sipgate,2023-01-01 00:00:00,infinity,active
+620,262,23,de,Germany,1&1,2023-01-01 00:00:00,infinity,active
+621,262,24,de,Germany,TelcoVillage,2023-01-01 00:00:00,infinity,active
+622,262,299,de,Germany,1&1,2023-01-01 00:00:00,infinity,active
+623,262,33,de,Germany,sipgate,2023-01-01 00:00:00,infinity,active
+624,262,42,de,Germany,Vodafone,2023-01-01 00:00:00,infinity,active
+625,262,43,de,Germany,Lycamobile,2023-01-01 00:00:00,infinity,active
+626,262,77,de,Germany,Telefonica / E-Plus,2023-01-01 00:00:00,infinity,active
+627,262,78,de,Germany,Telekom / T-mobile,2023-01-01 00:00:00,infinity,active
+628,262,999,de,Germany,Fix Line,2023-01-01 00:00:00,infinity,active
+629,266,01,gi,Gibraltar,Gibtel,2023-01-01 00:00:00,infinity,active
+630,266,06,gi,Gibraltar,CTS Mobile,2023-01-01 00:00:00,infinity,active
+631,266,09,gi,Gibraltar,eazi telecom,2023-01-01 00:00:00,infinity,active
+632,266,299,gi,Gibraltar,GibFibreSpeed,2023-01-01 00:00:00,infinity,active
+633,266,999,gi,Gibraltar,Fix Line,2023-01-01 00:00:00,infinity,active
+634,268,01,pt,Portugal,Vodafone,2023-01-01 00:00:00,infinity,active
+635,268,03,pt,Portugal,NOS,2023-01-01 00:00:00,infinity,active
+636,268,04,pt,Portugal,Lycamobile,2023-01-01 00:00:00,infinity,active
+637,268,06,pt,Portugal,MEO,2023-01-01 00:00:00,infinity,active
+638,268,07,pt,Portugal,NOS,2023-01-01 00:00:00,infinity,active
+639,268,08,pt,Portugal,MEO,2023-01-01 00:00:00,infinity,active
+640,268,299,pt,Portugal,NOWO,2023-01-01 00:00:00,infinity,active
+641,268,80,pt,Portugal,MEO,2023-01-01 00:00:00,infinity,active
+643,268,93,pt,Portugal,NOS,2023-01-01 00:00:00,infinity,active
+644,268,999,pt,Portugal,Fix Line,2023-01-01 00:00:00,infinity,active
+645,270,01,lu,Luxembourg,Post,2023-01-01 00:00:00,infinity,active
+646,270,05,lu,Luxembourg,Luxembourg Online,2023-01-01 00:00:00,infinity,active
+647,270,10,lu,Luxembourg,Blue Communications,2023-01-01 00:00:00,infinity,active
+648,270,299,lu,Luxembourg,Bouygues Telecom,2023-01-01 00:00:00,infinity,active
+649,270,77,lu,Luxembourg,Tango,2023-01-01 00:00:00,infinity,active
+650,270,81,lu,Luxembourg,e-LUX Mobile,2023-01-01 00:00:00,infinity,active
+651,270,99,lu,Luxembourg,Orange,2023-01-01 00:00:00,infinity,active
+652,270,999,lu,Luxembourg,Fix Line,2023-01-01 00:00:00,infinity,active
+653,272,01,ie,Ireland,Vodafone,2023-01-01 00:00:00,infinity,active
+654,272,02,ie,Ireland,3,2023-01-01 00:00:00,infinity,active
+655,272,03,ie,Ireland,Meteor / eir mobile,2023-01-01 00:00:00,infinity,active
+656,272,04,ie,Ireland,Access Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+657,272,05,ie,Ireland,3,2023-01-01 00:00:00,infinity,active
+658,272,07,ie,Ireland,Meteor / eir mobile,2023-01-01 00:00:00,infinity,active
+659,272,08,ie,Ireland,Meteor / eir mobile,2023-01-01 00:00:00,infinity,active
+660,272,11,ie,Ireland,Tesco Mobile,2023-01-01 00:00:00,infinity,active
+661,272,13,ie,Ireland,Lycamobile,2023-01-01 00:00:00,infinity,active
+662,272,15,ie,Ireland,Virgin Media,2023-01-01 00:00:00,infinity,active
+663,272,17,ie,Ireland,3,2023-01-01 00:00:00,infinity,active
+664,274,01,is,Iceland,Siminn,2023-01-01 00:00:00,infinity,active
+665,274,02,is,Iceland,Vodafone,2023-01-01 00:00:00,infinity,active
+666,274,03,is,Iceland,Vodafone,2023-01-01 00:00:00,infinity,active
+667,274,04,is,Iceland,Viking Wireless,2023-01-01 00:00:00,infinity,active
+668,274,05,is,Iceland,Vodafone,2023-01-01 00:00:00,infinity,active
+669,274,07,is,Iceland,IceCell,2023-01-01 00:00:00,infinity,active
+670,274,08,is,Iceland,Siminn,2023-01-01 00:00:00,infinity,active
+671,274,09,is,Iceland,Amitelo,2023-01-01 00:00:00,infinity,active
+672,274,11,is,Iceland,NOVA,2023-01-01 00:00:00,infinity,active
+673,274,12,is,Iceland,Vodafone,2023-01-01 00:00:00,infinity,active
+674,274,16,is,Iceland,Tismi,2023-01-01 00:00:00,infinity,active
+675,274,31,is,Iceland,Siminn,2023-01-01 00:00:00,infinity,active
+676,276,01,al,Albania,One / AMC,2023-01-01 00:00:00,infinity,active
+677,276,02,al,Albania,Vodafone,2023-01-01 00:00:00,infinity,active
+678,276,03,al,Albania,ALBtelecom Mobile / Eagle,2023-01-01 00:00:00,infinity,active
+679,276,04,al,Albania,PLUS Communication Sh.a,2023-01-01 00:00:00,infinity,active
+680,278,01,mt,Malta,Vodafone,2023-01-01 00:00:00,infinity,active
+681,278,21,mt,Malta,GO Mobile,2023-01-01 00:00:00,infinity,active
+682,278,30,mt,Malta,GO Mobile,2023-01-01 00:00:00,infinity,active
+683,278,77,mt,Malta,Melita,2023-01-01 00:00:00,infinity,active
+684,278,999,mt,Malta,Fix Line,2023-01-01 00:00:00,infinity,active
+685,280,01,cy,Cyprus,Cytamobile-Vodafone,2023-01-01 00:00:00,infinity,active
+686,280,02,cy,Cyprus,Cytamobile-Vodafone,2023-01-01 00:00:00,infinity,active
+687,280,10,cy,Cyprus,Epic / MTN,2023-01-01 00:00:00,infinity,active
+688,280,20,cy,Cyprus,PrimeTel,2023-01-01 00:00:00,infinity,active
+689,280,22,cy,Cyprus,Cablenet / Lemontel,2023-01-01 00:00:00,infinity,active
+690,280,999,cy,Cyprus,Fix Line,2023-01-01 00:00:00,infinity,active
+691,282,01,ge,Georgia,Geocell,2023-01-01 00:00:00,infinity,active
+692,282,02,ge,Georgia,MagtiCom,2023-01-01 00:00:00,infinity,active
+693,282,03,ge,Georgia,Iberiatel Ltd.,2023-01-01 00:00:00,infinity,active
+694,282,04,ge,Georgia,Beeline,2023-01-01 00:00:00,infinity,active
+695,282,05,ge,Georgia,Silknet,2023-01-01 00:00:00,infinity,active
+696,282,07,ge,Georgia,GlobalCell,2023-01-01 00:00:00,infinity,active
+697,282,08,ge,Georgia,Silknet,2023-01-01 00:00:00,infinity,active
+698,282,10,ge,Georgia,Premium Net,2023-01-01 00:00:00,infinity,active
+699,282,11,ge,Georgia,Mobilive,2023-01-01 00:00:00,infinity,active
+700,282,12,ge,Georgia,Telecom 1,2023-01-01 00:00:00,infinity,active
+701,282,22,ge,Georgia,MyPhone,2023-01-01 00:00:00,infinity,active
+702,283,01,am,Armenia,Beeline,2023-01-01 00:00:00,infinity,active
+703,283,04,am,Armenia,KT,2023-01-01 00:00:00,infinity,active
+704,283,05,am,Armenia,Viva-MTS,2023-01-01 00:00:00,infinity,active
+705,283,10,am,Armenia,Orange,2023-01-01 00:00:00,infinity,active
+706,284,01,bg,Bulgaria,A1,2023-01-01 00:00:00,infinity,active
+707,284,03,bg,Bulgaria,Vivacom,2023-01-01 00:00:00,infinity,active
+708,284,05,bg,Bulgaria,Telenor,2023-01-01 00:00:00,infinity,active
+709,284,06,bg,Bulgaria,Vivacom,2023-01-01 00:00:00,infinity,active
+710,284,11,bg,Bulgaria,Bulsatcom,2023-01-01 00:00:00,infinity,active
+711,284,13,bg,Bulgaria,T.com,2023-01-01 00:00:00,infinity,active
+712,286,01,tr,Turkiye,Turkcell,2023-01-01 00:00:00,infinity,active
+713,286,02,tr,Turkiye,Vodafone,2023-01-01 00:00:00,infinity,active
+714,286,03,tr,Turkiye,Avea,2023-01-01 00:00:00,infinity,active
+715,286,04,tr,Turkiye,Avea,2023-01-01 00:00:00,infinity,active
+716,286,299,tr,Turkiye,Asistan Telekom,2023-01-01 00:00:00,infinity,active
+717,286,999,tr,Turkiye,Fix Line,2023-01-01 00:00:00,infinity,active
+718,288,01,fo,Faroe Islands,Faroese Telecom,2023-01-01 00:00:00,infinity,active
+719,288,02,fo,Faroe Islands,Hey / Kall,2023-01-01 00:00:00,infinity,active
+720,288,03,fo,Faroe Islands,Tosa,2023-01-01 00:00:00,infinity,active
+721,289,67,ge,Abkhazia,Aquafon,2023-01-01 00:00:00,infinity,active
+722,289,68,ge,Abkhazia,A-Mobile,2023-01-01 00:00:00,infinity,active
+723,289,88,ge,Abkhazia,A-Mobile,2023-01-01 00:00:00,infinity,active
+724,290,01,gl,Greenland,Tele Greenland,2023-01-01 00:00:00,infinity,active
+725,292,01,sm,San Marino,Prima,2023-01-01 00:00:00,infinity,active
+726,292,299,sm,San Marino,TeleneT,2023-01-01 00:00:00,infinity,active
+727,293,10,si,Slovenia,Slovenske zeleznice,2023-01-01 00:00:00,infinity,active
+728,293,20,si,Slovenia,Compatel,2023-01-01 00:00:00,infinity,active
+729,293,299,si,Slovenia,SoftNET,2023-01-01 00:00:00,infinity,active
+730,293,40,si,Slovenia,A1 / Si.mobil,2023-01-01 00:00:00,infinity,active
+731,293,41,si,Slovenia,Mobitel,2023-01-01 00:00:00,infinity,active
+732,293,64,si,Slovenia,T-2,2023-01-01 00:00:00,infinity,active
+733,293,70,si,Slovenia,Telemach / Tusmobil,2023-01-01 00:00:00,infinity,active
+734,293,86,si,Slovenia,Elektro Gorenjska,2023-01-01 00:00:00,infinity,active
+735,293,999,si,Slovenia,Fix Line,2023-01-01 00:00:00,infinity,active
+736,294,01,mk,North Macedonia,Telekom,2023-01-01 00:00:00,infinity,active
+737,294,02,mk,North Macedonia,A1,2023-01-01 00:00:00,infinity,active
+738,294,03,mk,North Macedonia,VIP Mobile,2023-01-01 00:00:00,infinity,active
+739,294,04,mk,North Macedonia,Lycamobile,2023-01-01 00:00:00,infinity,active
+740,294,11,mk,North Macedonia,Mobik,2023-01-01 00:00:00,infinity,active
+741,294,299,mk,North Macedonia,Telekabel,2023-01-01 00:00:00,infinity,active
+742,294,75,mk,North Macedonia,A1,2023-01-01 00:00:00,infinity,active
+743,295,01,li,Liechtenstein,FL GSM,2023-01-01 00:00:00,infinity,active
+744,295,02,li,Liechtenstein,7acht,2023-01-01 00:00:00,infinity,active
+745,295,05,li,Liechtenstein,FL1,2023-01-01 00:00:00,infinity,active
+746,295,06,li,Liechtenstein,CUBIC,2023-01-01 00:00:00,infinity,active
+747,295,07,li,Liechtenstein,First Mobile AG,2023-01-01 00:00:00,infinity,active
+748,295,09,li,Liechtenstein,EMnify,2023-01-01 00:00:00,infinity,active
+749,295,299,li,Liechtenstein,Datamobile,2023-01-01 00:00:00,infinity,active
+750,295,77,li,Liechtenstein,Alpmobile/Tele2,2023-01-01 00:00:00,infinity,active
+751,297,01,me,Montenegro,Telenor,2023-01-01 00:00:00,infinity,active
+752,297,02,me,Montenegro,Telekom / T-mobile,2023-01-01 00:00:00,infinity,active
+753,297,03,me,Montenegro,Mtel,2023-01-01 00:00:00,infinity,active
+754,302,220,ca,Canada,Telus Mobility,2023-01-01 00:00:00,infinity,active
+755,302,320,ca,Canada,mobilicity,2023-01-01 00:00:00,infinity,active
+756,302,360,ca,Canada,Clearnet,2023-01-01 00:00:00,infinity,active
+757,302,361,ca,Canada,Clearnet,2023-01-01 00:00:00,infinity,active
+758,302,370,ca,Canada,FIDO (Rogers AT&T/ Microcell),2023-01-01 00:00:00,infinity,active
+759,302,380,ca,Canada,DMTS Mobility,2023-01-01 00:00:00,infinity,active
+760,302,490,ca,Canada,WIND,2023-01-01 00:00:00,infinity,active
+761,302,500,ca,Canada,Videotron,2023-01-01 00:00:00,infinity,active
+762,302,610,ca,Canada,Bell Mobility,2023-01-01 00:00:00,infinity,active
+763,302,630,ca,Canada,Bell Aliant,2023-01-01 00:00:00,infinity,active
+764,302,640,ca,Canada,Latitude Wireless,2023-01-01 00:00:00,infinity,active
+765,302,651,ca,Canada,Bell Mobility,2023-01-01 00:00:00,infinity,active
+766,302,652,ca,Canada,BC Tel Mobility,2023-01-01 00:00:00,infinity,active
+767,302,653,ca,Canada,Telus Mobility,2023-01-01 00:00:00,infinity,active
+768,302,654,ca,Canada,Sask Tel Mobility,2023-01-01 00:00:00,infinity,active
+769,302,655,ca,Canada,MTS Mobility,2023-01-01 00:00:00,infinity,active
+770,302,656,ca,Canada,Tbay Mobility,2023-01-01 00:00:00,infinity,active
+771,302,657,ca,Canada,Quebectel Mobility,2023-01-01 00:00:00,infinity,active
+772,302,660,ca,Canada,MTS Mobility,2023-01-01 00:00:00,infinity,active
+773,302,670,ca,Canada,CityWest Mobility,2023-01-01 00:00:00,infinity,active
+774,302,680,ca,Canada,Sask Tel Mobility,2023-01-01 00:00:00,infinity,active
+775,302,701,ca,Canada,NB Tel Mobility,2023-01-01 00:00:00,infinity,active
+776,302,702,ca,Canada,MT&T Mobility,2023-01-01 00:00:00,infinity,active
+777,302,703,ca,Canada,New Tel Mobility,2023-01-01 00:00:00,infinity,active
+778,302,710,ca,Canada,Globalstar Canada,2023-01-01 00:00:00,infinity,active
+779,302,720,ca,Canada,Rogers AT&T Wireless,2023-01-01 00:00:00,infinity,active
+780,302,760,ca,Canada,Public Mobile,2023-01-01 00:00:00,infinity,active
+781,302,780,ca,Canada,Sask Tel Mobility,2023-01-01 00:00:00,infinity,active
+782,308,01,pm,Saint Pierre and Miquelon,Ameris,2023-01-01 00:00:00,infinity,active
+783,310,003,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+784,310,004,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+785,310,010,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+786,310,011,us,United States of America,Northstar,2023-01-01 00:00:00,infinity,active
+787,310,012,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+788,310,013,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+789,310,016,us,United States of America,Leap Wireless International Inc.,2023-01-01 00:00:00,infinity,active
+790,310,020,us,United States of America,Union Telephone Co.,2023-01-01 00:00:00,infinity,active
+791,310,030,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+792,310,032,gu,Guam,IT&E OverSeas,2023-01-01 00:00:00,infinity,active
+793,310,033,gu,Guam,Guam Teleph. Auth.,2023-01-01 00:00:00,infinity,active
+794,310,040,us,United States of America,Matanuska Tel. Assn. Inc.,2023-01-01 00:00:00,infinity,active
+795,310,050,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+796,310,06,us,United States of America,Consolidated Telcom,2023-01-01 00:00:00,infinity,active
+797,310,070,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+798,310,080,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+799,310,090,us,United States of America,Edge Wireless LLC,2023-01-01 00:00:00,infinity,active
+800,417,02,sy,Syria,MTN/Spacetel,2023-01-01 00:00:00,infinity,active
+801,310,100,us,United States of America,Plateau Telecommunications Inc.,2023-01-01 00:00:00,infinity,active
+802,310,120,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+803,310,130,us,United States of America,North Carolina RSA 3 Cellular Tel. Co.,2023-01-01 00:00:00,infinity,active
+804,310,140,gu,Guam,GTA Wireless,2023-01-01 00:00:00,infinity,active
+805,310,14,us,United States of America,Testing,2023-01-01 00:00:00,infinity,active
+806,310,150,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+807,310,15,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+808,310,160,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+809,310,170,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+810,310,180,us,United States of America,Cingular Wireless,2023-01-01 00:00:00,infinity,active
+811,310,190,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+812,310,200,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+813,310,210,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+814,310,220,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+815,310,230,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+816,310,23,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+817,310,240,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+818,310,24,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+819,310,250,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+820,310,25,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+821,310,260,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+822,310,26,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+823,310,270,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+824,310,280,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+825,310,290,us,United States of America,NEP Cellcorp Inc.,2023-01-01 00:00:00,infinity,active
+826,310,300,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+827,310,310,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+828,310,31,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+829,310,320,us,United States of America,Smith Bagley Inc.,2023-01-01 00:00:00,infinity,active
+830,310,330,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+831,310,340,us,United States of America,Westlink Communications LLC,2023-01-01 00:00:00,infinity,active
+832,310,34,us,United States of America,Nevada Wireless LLC,2023-01-01 00:00:00,infinity,active
+833,310,350,us,United States of America,Mohave Cellular LP,2023-01-01 00:00:00,infinity,active
+834,310,360,us,United States of America,Cellular Network Partnership LLC,2023-01-01 00:00:00,infinity,active
+835,310,370,gu,Guam,Docomo,2023-01-01 00:00:00,infinity,active
+836,310,380,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+837,310,38,us,United States of America,USA 3650 AT&T,2023-01-01 00:00:00,infinity,active
+838,310,390,us,United States of America,Yorkville Telephone Cooperative,2023-01-01 00:00:00,infinity,active
+839,310,400,us,United States of America,Minnesota South. Wirel. Co. / Hickory,2023-01-01 00:00:00,infinity,active
+840,310,410,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+841,310,420,us,United States of America,Cincinnati Bell Wireless LLC,2023-01-01 00:00:00,infinity,active
+842,310,430,us,United States of America,GCI Communication Corp.,2023-01-01 00:00:00,infinity,active
+843,310,440,us,United States of America,Dobson Cellular Systems,2023-01-01 00:00:00,infinity,active
+844,310,450,us,United States of America,Northeast Colorado Cellular Inc.,2023-01-01 00:00:00,infinity,active
+845,310,460,us,United States of America,TMP Corporation,2023-01-01 00:00:00,infinity,active
+846,310,46,us,United States of America,SIMMETRY,2023-01-01 00:00:00,infinity,active
+847,310,470,gu,Guam,Docomo,2023-01-01 00:00:00,infinity,active
+848,310,480,us,United States of America,Choice Phone LLC,2023-01-01 00:00:00,infinity,active
+849,310,490,us,United States of America,Triton PCS,2023-01-01 00:00:00,infinity,active
+850,310,500,us,United States of America,Public Service Cellular Inc.,2023-01-01 00:00:00,infinity,active
+851,310,510,us,United States of America,Airtel Wireless LLC,2023-01-01 00:00:00,infinity,active
+852,310,520,us,United States of America,VeriSign,2023-01-01 00:00:00,infinity,active
+853,310,530,us,United States of America,West Virginia Wireless,2023-01-01 00:00:00,infinity,active
+854,310,540,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+855,310,560,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+856,310,570,us,United States of America,MTPCS LLC,2023-01-01 00:00:00,infinity,active
+857,310,580,us,United States of America,PCS ONE,2023-01-01 00:00:00,infinity,active
+858,310,590,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+859,310,600,us,United States of America,New-Cell Inc.,2023-01-01 00:00:00,infinity,active
+860,310,60,us,United States of America,Consolidated Telcom,2023-01-01 00:00:00,infinity,active
+861,310,610,us,United States of America,Elkhart TelCo. / Epic Touch Co.,2023-01-01 00:00:00,infinity,active
+862,310,620,us,United States of America,Coleman County Telco /Trans TX,2023-01-01 00:00:00,infinity,active
+863,310,630,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+864,310,640,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+865,310,650,us,United States of America,Jasper,2023-01-01 00:00:00,infinity,active
+866,310,660,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+867,310,670,us,United States of America,Northstar,2023-01-01 00:00:00,infinity,active
+868,310,680,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+869,310,690,us,United States of America,Keystone Wireless LLC,2023-01-01 00:00:00,infinity,active
+870,310,700,us,United States of America,Cross Valliant Cellular Partnership,2023-01-01 00:00:00,infinity,active
+871,310,710,us,United States of America,Arctic Slope Telephone Association Cooperative Inc.,2023-01-01 00:00:00,infinity,active
+872,310,730,us,United States of America,United States Cellular Corp.,2023-01-01 00:00:00,infinity,active
+873,310,740,us,United States of America,Telemetrix Inc.,2023-01-01 00:00:00,infinity,active
+874,310,750,us,United States of America,East Kentucky Network LLC,2023-01-01 00:00:00,infinity,active
+875,310,760,us,United States of America,Panhandle Telephone Cooperative Inc.,2023-01-01 00:00:00,infinity,active
+876,310,770,us,United States of America,Iowa Wireless Services LLC,2023-01-01 00:00:00,infinity,active
+877,310,780,us,United States of America,Message Express Co. / Airlink PCS,2023-01-01 00:00:00,infinity,active
+878,310,790,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+879,310,800,us,United States of America,T-Mobile,2023-01-01 00:00:00,infinity,active
+880,310,830,us,United States of America,Caprock Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+881,310,850,us,United States of America,Aeris Comm. Inc.,2023-01-01 00:00:00,infinity,active
+882,310,860,us,United States of America,Texas RSA 15B2 Limited Partnership,2023-01-01 00:00:00,infinity,active
+883,310,870,us,United States of America,Kaplan Telephone Company Inc.,2023-01-01 00:00:00,infinity,active
+884,310,880,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+885,310,890,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+886,310,900,us,United States of America,Cable & Communications Corp.,2023-01-01 00:00:00,infinity,active
+887,310,910,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+888,310,920,us,United States of America,Get Mobile Inc.,2023-01-01 00:00:00,infinity,active
+889,310,930,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+890,310,940,us,United States of America,Poka Lambro Telco Ltd.,2023-01-01 00:00:00,infinity,active
+891,310,950,us,United States of America,Unknown,2023-01-01 00:00:00,infinity,active
+892,310,960,us,United States of America,Uintah Basin Electronics Telecommunications Inc.,2023-01-01 00:00:00,infinity,active
+893,310,970,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+894,310,980,us,United States of America,AT&T Wireless Inc.,2023-01-01 00:00:00,infinity,active
+895,310,990,us,United States of America,E.N.M.R. Telephone Coop.,2023-01-01 00:00:00,infinity,active
+896,310,999,us,United States of America,Various Networks,2023-01-01 00:00:00,infinity,active
+897,311,000,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+898,311,010,us,United States of America,Missouri RSA No 5 Partnership,2023-01-01 00:00:00,infinity,active
+899,311,020,us,United States of America,Missouri RSA No 5 Partnership,2023-01-01 00:00:00,infinity,active
+900,311,030,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+901,311,040,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+902,311,050,us,United States of America,Thumb Cellular Limited Partnership,2023-01-01 00:00:00,infinity,active
+903,311,070,us,United States of America,Wisconsin RSA #7 Limited Partnership,2023-01-01 00:00:00,infinity,active
+904,311,080,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+905,311,090,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+906,311,100,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+907,311,110,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+908,311,120,us,United States of America,Choice Phone LLC,2023-01-01 00:00:00,infinity,active
+909,311,130,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+910,311,140,us,United States of America,Cross Wireless Telephone Co.,2023-01-01 00:00:00,infinity,active
+911,311,150,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+912,311,170,us,United States of America,PetroCom,2023-01-01 00:00:00,infinity,active
+913,311,190,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+914,311,210,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+915,311,220,us,United States of America,United States Cellular Corp.,2023-01-01 00:00:00,infinity,active
+916,311,240,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+917,311,250,gu,Guam,Wave Runner LLC,2023-01-01 00:00:00,infinity,active
+918,311,260,us,United States of America,SLO Cellular Inc / Cellular One of San Luis,2023-01-01 00:00:00,infinity,active
+919,311,270,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+920,311,271,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+921,311,272,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+922,311,273,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+923,311,274,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+924,311,275,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+925,311,276,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+926,311,277,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+927,311,278,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+928,311,279,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+929,311,280,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+930,311,281,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+931,311,282,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+932,311,283,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+933,311,284,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+934,311,285,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+935,311,286,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+936,311,287,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+937,311,288,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+938,311,289,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+939,311,300,us,United States of America,Nexus Communications Inc.,2023-01-01 00:00:00,infinity,active
+940,311,310,us,United States of America,Lamar County Cellular,2023-01-01 00:00:00,infinity,active
+941,311,311,us,United States of America,Farmers,2023-01-01 00:00:00,infinity,active
+942,311,330,us,United States of America,Michigan Wireless LLC,2023-01-01 00:00:00,infinity,active
+943,311,340,us,United States of America,Illinois Valley Cellular RSA 2 Partnership,2023-01-01 00:00:00,infinity,active
+944,311,350,us,United States of America,Sagebrush Cellular Inc.,2023-01-01 00:00:00,infinity,active
+945,311,370,us,United States of America,GCI Communication Corp.,2023-01-01 00:00:00,infinity,active
+946,311,380,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+947,311,390,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+948,311,410,us,United States of America,Iowa RSA No. 2 Limited Partnership,2023-01-01 00:00:00,infinity,active
+949,311,420,us,United States of America,Northwest Missouri Cellular Limited Partnership,2023-01-01 00:00:00,infinity,active
+950,311,430,us,United States of America,RSA 1 Limited Partnership,2023-01-01 00:00:00,infinity,active
+951,311,440,us,United States of America,Bluegrass Wireless LLC,2023-01-01 00:00:00,infinity,active
+952,311,460,us,United States of America,Fisher Wireless Services Inc.,2023-01-01 00:00:00,infinity,active
+953,311,480,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+954,311,481,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+955,311,482,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+956,311,483,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+957,311,484,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+958,311,485,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+959,311,486,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+960,311,487,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+961,311,488,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+962,311,489,us,United States of America,Verizon Wireless,2023-01-01 00:00:00,infinity,active
+963,311,490,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+964,311,500,us,United States of America,Cambridge Telephone Company Inc.,2023-01-01 00:00:00,infinity,active
+965,311,520,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+966,311,540,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+967,311,590,us,United States of America,California RSA No. 3 Limited Partnership,2023-01-01 00:00:00,infinity,active
+968,311,610,us,United States of America,North Dakota Network Company,2023-01-01 00:00:00,infinity,active
+969,311,650,us,United States of America,United Wireless Communications Inc.,2023-01-01 00:00:00,infinity,active
+970,311,660,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+971,311,670,us,United States of America,Pine Belt Cellular Inc.,2023-01-01 00:00:00,infinity,active
+972,311,710,us,United States of America,Northeast Wireless Networks LLC,2023-01-01 00:00:00,infinity,active
+973,311,730,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+974,311,740,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+975,311,800,us,United States of America,Bluegrass Wireless LLC,2023-01-01 00:00:00,infinity,active
+976,311,810,us,United States of America,Bluegrass Wireless LLC,2023-01-01 00:00:00,infinity,active
+977,311,830,us,United States of America,Thumb Cellular Limited Partnership,2023-01-01 00:00:00,infinity,active
+978,311,860,us,United States of America,Uintah Basin Electronics Telecommunications Inc.,2023-01-01 00:00:00,infinity,active
+979,311,870,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+980,311,880,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+981,311,910,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+982,311,920,us,United States of America,Missouri RSA No 5 Partnership,2023-01-01 00:00:00,infinity,active
+983,312,010,us,United States of America,Missouri RSA No 5 Partnership,2023-01-01 00:00:00,infinity,active
+984,312,030,us,United States of America,Cross Wireless Telephone Co.,2023-01-01 00:00:00,infinity,active
+985,312,040,us,United States of America,Custer Telephone Cooperative Inc.,2023-01-01 00:00:00,infinity,active
+986,312,090,us,United States of America,Allied Wireless Communications Corporation,2023-01-01 00:00:00,infinity,active
+987,312,120,us,United States of America,East Kentucky Network LLC,2023-01-01 00:00:00,infinity,active
+988,312,130,us,United States of America,East Kentucky Network LLC,2023-01-01 00:00:00,infinity,active
+989,312,160,us,United States of America,RSA 1 Limited Partnership,2023-01-01 00:00:00,infinity,active
+990,312,170,us,United States of America,Iowa RSA No. 2 Limited Partnership,2023-01-01 00:00:00,infinity,active
+991,312,180,us,United States of America,Keystone Wireless LLC,2023-01-01 00:00:00,infinity,active
+992,312,190,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+993,312,220,us,United States of America,Missouri RSA No 5 Partnership,2023-01-01 00:00:00,infinity,active
+994,312,230,us,United States of America,North Dakota Network Company,2023-01-01 00:00:00,infinity,active
+995,312,270,us,United States of America,Cellular Network Partnership LLC,2023-01-01 00:00:00,infinity,active
+996,312,280,us,United States of America,Cellular Network Partnership LLC,2023-01-01 00:00:00,infinity,active
+997,312,290,us,United States of America,Uintah Basin Electronics Telecommunications Inc.,2023-01-01 00:00:00,infinity,active
+998,312,380,us,United States of America,UNKNOWN,2023-01-01 00:00:00,infinity,active
+999,312,530,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+1000,316,010,us,United States of America,Sprint Spectrum,2023-01-01 00:00:00,infinity,active
+1001,316,011,us,United States of America,Southern Communications Services Inc.,2023-01-01 00:00:00,infinity,active
+1002,330,110,pr,Puerto Rico,Puerto Rico Telephone Company Inc. (PRTC),2023-01-01 00:00:00,infinity,active
+1003,330,11,pr,Puerto Rico,Puerto Rico Telephone Company Inc. (PRTC),2023-01-01 00:00:00,infinity,active
+1004,334,010,mx,Mexico,NEXTEL,2023-01-01 00:00:00,infinity,active
+1005,334,01,mx,Mexico,NEXTEL,2023-01-01 00:00:00,infinity,active
+1006,334,020,mx,Mexico,TelCel/America Movil,2023-01-01 00:00:00,infinity,active
+1007,334,02,mx,Mexico,TelCel/America Movil,2023-01-01 00:00:00,infinity,active
+1008,334,030,mx,Mexico,Movistar/Pegaso,2023-01-01 00:00:00,infinity,active
+1009,334,03,mx,Mexico,Movistar/Pegaso,2023-01-01 00:00:00,infinity,active
+1010,334,040,mx,Mexico,AT&T/IUSACell,2023-01-01 00:00:00,infinity,active
+1011,334,04,mx,Mexico,AT&T/IUSACell,2023-01-01 00:00:00,infinity,active
+1012,334,050,mx,Mexico,AT&T/IUSACell,2023-01-01 00:00:00,infinity,active
+1013,334,05,mx,Mexico,AT&T/IUSACell,2023-01-01 00:00:00,infinity,active
+1014,334,060,mx,Mexico,SAI PCS,2023-01-01 00:00:00,infinity,active
+1015,334,070,mx,Mexico,Operadora Unefon SA de CV,2023-01-01 00:00:00,infinity,active
+1016,334,080,mx,Mexico,Operadora Unefon SA de CV,2023-01-01 00:00:00,infinity,active
+1017,334,090,mx,Mexico,NEXTEL,2023-01-01 00:00:00,infinity,active
+1018,334,09,mx,Mexico,NEXTEL,2023-01-01 00:00:00,infinity,active
+1019,334,50,mx,Mexico,AT&T/IUSACell,2023-01-01 00:00:00,infinity,active
+1020,338,020,jm,Jamaica,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1021,338,050,jm,Jamaica,DIGICEL/Mossel,2023-01-01 00:00:00,infinity,active
+1022,338,110,jm,Jamaica,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1023,338,180,jm,Jamaica,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1024,340,01,gf,French Guiana,Orange Caribe,2023-01-01 00:00:00,infinity,active
+1025,340,02,gf,French Guiana,Outremer Telecom,2023-01-01 00:00:00,infinity,active
+1026,340,03,gf,French Guiana,TelCell GSM,2023-01-01 00:00:00,infinity,active
+1027,340,08,gp,Guadeloupe,Dauphin Telecom SU (Guadeloupe Telecom),2023-01-01 00:00:00,infinity,active
+1028,340,10,gp,Guadeloupe,UNKNOWN,2023-01-01 00:00:00,infinity,active
+1029,340,11,gf,French Guiana,TelCell GSM,2023-01-01 00:00:00,infinity,active
+1030,340,12,mq,Martinique,UTS Caraibe,2023-01-01 00:00:00,infinity,active
+1031,340,20,gf,French Guiana,Bouygues/DigiCel,2023-01-01 00:00:00,infinity,active
+1032,342,050,bb,Barbados,Digicel,2023-01-01 00:00:00,infinity,active
+1033,342,299,bb,Barbados,Ozone,2023-01-01 00:00:00,infinity,active
+1034,342,600,bb,Barbados,Flow / Lime,2023-01-01 00:00:00,infinity,active
+1035,342,750,bb,Barbados,Digicel,2023-01-01 00:00:00,infinity,active
+1036,342,810,bb,Barbados,Cingular Wireless,2023-01-01 00:00:00,infinity,active
+1037,342,820,bb,Barbados,Sunbeach,2023-01-01 00:00:00,infinity,active
+1038,344,030,ag,Antigua and Barbuda,imobile / APUA,2023-01-01 00:00:00,infinity,active
+1039,344,03,ag,Antigua and Barbuda,imobile / APUA,2023-01-01 00:00:00,infinity,active
+1040,344,920,ag,Antigua and Barbuda,Flow,2023-01-01 00:00:00,infinity,active
+1041,344,92,ag,Antigua and Barbuda,Flow,2023-01-01 00:00:00,infinity,active
+1042,344,930,ag,Antigua and Barbuda,Digicel,2023-01-01 00:00:00,infinity,active
+1043,344,93,ag,Antigua and Barbuda,Digicel,2023-01-01 00:00:00,infinity,active
+1044,346,001,ky,Cayman Islands,Logic,2023-01-01 00:00:00,infinity,active
+1045,346,006,ky,Cayman Islands,Digicel Ltd.,2023-01-01 00:00:00,infinity,active
+1046,346,050,ky,Cayman Islands,Digicel,2023-01-01 00:00:00,infinity,active
+1047,346,140,ky,Cayman Islands,Flow / Lime,2023-01-01 00:00:00,infinity,active
+1048,348,170,vg,British Virgin Islands,LIME,2023-01-01 00:00:00,infinity,active
+1049,348,570,vg,British Virgin Islands,Caribbean Cellular,2023-01-01 00:00:00,infinity,active
+1050,348,770,vg,British Virgin Islands,Digicel,2023-01-01 00:00:00,infinity,active
+1051,350,000,bm,Bermuda,One,2023-01-01 00:00:00,infinity,active
+1052,350,01,bm,Bermuda,Telecommunications (Bermuda & West Indies) Ltd (Digicel Bermuda),2023-01-01 00:00:00,infinity,active
+1053,350,02,bm,Bermuda,M3 Wireless Ltd,2023-01-01 00:00:00,infinity,active
+1054,350,299,bm,Bermuda,Failed Calls,2023-01-01 00:00:00,infinity,active
+1055,350,99,bm,Bermuda,CellOne Ltd,2023-01-01 00:00:00,infinity,active
+1056,352,030,gd,Grenada,Digicel,2023-01-01 00:00:00,infinity,active
+1057,352,050,gd,Grenada,Digicel,2023-01-01 00:00:00,infinity,active
+1058,352,110,gd,Grenada,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1059,354,860,ms,Montserrat,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1060,356,110,kn,Saint Kitts and Nevis,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1061,356,50,kn,Saint Kitts and Nevis,Digicel,2023-01-01 00:00:00,infinity,active
+1062,356,70,kn,Saint Kitts and Nevis,UTS Cariglobe,2023-01-01 00:00:00,infinity,active
+1063,358,110,lc,Saint Lucia,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1064,358,30,lc,Saint Lucia,Cingular Wireless,2023-01-01 00:00:00,infinity,active
+1065,358,50,lc,Saint Lucia,Digicel (St Lucia) Limited,2023-01-01 00:00:00,infinity,active
+1066,360,050,vc,Saint Vincent and the Grenadines,Digicel,2023-01-01 00:00:00,infinity,active
+1067,360,100,vc,Saint Vincent and the Grenadines,Cingular,2023-01-01 00:00:00,infinity,active
+1068,360,10,vc,Saint Vincent and the Grenadines,Cingular,2023-01-01 00:00:00,infinity,active
+1069,360,110,vc,Saint Vincent and the Grenadines,C & W,2023-01-01 00:00:00,infinity,active
+1070,360,70,vc,Saint Vincent and the Grenadines,Digicel,2023-01-01 00:00:00,infinity,active
+1071,362,51,an,Netherlands Antilles,TELCELL GSM,2023-01-01 00:00:00,infinity,active
+1072,362,630,an,Netherlands Antilles,Cingular Wireless,2023-01-01 00:00:00,infinity,active
+1073,362,69,cw,Curacao,Polycom N.V./ Digicel,2023-01-01 00:00:00,infinity,active
+1074,362,91,an,Netherlands Antilles,SETEL GSM,2023-01-01 00:00:00,infinity,active
+1075,362,951,an,Netherlands Antilles,UTS Wireless,2023-01-01 00:00:00,infinity,active
+1076,362,95,cw,Curacao,EOCG Wireless NV,2023-01-01 00:00:00,infinity,active
+1077,362,999,cw,Curacao,Fix Line,2023-01-01 00:00:00,infinity,active
+1078,363,01,aw,Aruba,SETAR,2023-01-01 00:00:00,infinity,active
+1079,363,02,aw,Aruba,Digicel,2023-01-01 00:00:00,infinity,active
+1080,363,20,aw,Aruba,Digicel,2023-01-01 00:00:00,infinity,active
+1081,363,299,aw,Aruba,MIO,2023-01-01 00:00:00,infinity,active
+1082,364,03,bs,Bahamas,Smart Communications,2023-01-01 00:00:00,infinity,active
+1083,364,30,bs,Bahamas,Cybercell / BaTelCo,2023-01-01 00:00:00,infinity,active
+1084,364,390,bs,Bahamas,Cybercell / BaTelCo,2023-01-01 00:00:00,infinity,active
+1085,364,39,bs,Bahamas,Cybercell / BaTelCo,2023-01-01 00:00:00,infinity,active
+1086,364,490,bs,Bahamas,Aliv,2023-01-01 00:00:00,infinity,active
+1087,365,840,ai,Anguilla,Flow,2023-01-01 00:00:00,infinity,active
+1088,365,850,ai,Anguilla,Digicel,2023-01-01 00:00:00,infinity,active
+1089,366,020,dm,Dominica,Cingular Wireless/Digicel,2023-01-01 00:00:00,infinity,active
+1090,366,050,dm,Dominica,Wireless Ventures (Dominica) Ltd (Digicel Dominica),2023-01-01 00:00:00,infinity,active
+1091,366,110,dm,Dominica,C & W,2023-01-01 00:00:00,infinity,active
+1092,368,01,cu,Cuba,CubaCel/C-COM,2023-01-01 00:00:00,infinity,active
+1093,368,999,cu,Cuba,Fix Line,2023-01-01 00:00:00,infinity,active
+1094,370,01,do,Dominican Republic,Orange,2023-01-01 00:00:00,infinity,active
+1095,370,02,do,Dominican Republic,Claro,2023-01-01 00:00:00,infinity,active
+1096,370,03,do,Dominican Republic,TRIcom,2023-01-01 00:00:00,infinity,active
+1097,370,04,do,Dominican Republic,Viva,2023-01-01 00:00:00,infinity,active
+1098,372,01,ht,Haiti,Comcel,2023-01-01 00:00:00,infinity,active
+1099,372,02,ht,Haiti,Digicel,2023-01-01 00:00:00,infinity,active
+1100,372,03,ht,Haiti,Natcom,2023-01-01 00:00:00,infinity,active
+1101,374,120,tt,Trinidad and Tobago,Bmobile/TSTT,2023-01-01 00:00:00,infinity,active
+1102,374,12,tt,Trinidad and Tobago,Bmobile/TSTT,2023-01-01 00:00:00,infinity,active
+1103,374,130,tt,Trinidad and Tobago,Digicel,2023-01-01 00:00:00,infinity,active
+1104,374,140,tt,Trinidad and Tobago,LaqTel Ltd.,2023-01-01 00:00:00,infinity,active
+1105,376,050,tc,Turks and Caicos Islands,Digicel TCI Ltd,2023-01-01 00:00:00,infinity,active
+1106,376,350,tc,Turks and Caicos Islands,Cable & Wireless (TCI) Ltd,2023-01-01 00:00:00,infinity,active
+1107,376,352,tc,Turks and Caicos Islands,IslandCom Communications Ltd.,2023-01-01 00:00:00,infinity,active
+1108,376,50,vi,Virgin Islands,Digicel,2023-01-01 00:00:00,infinity,active
+1109,400,01,az,Azerbaijan,Azercell,2023-01-01 00:00:00,infinity,active
+1110,400,02,az,Azerbaijan,Bakcell,2023-01-01 00:00:00,infinity,active
+1111,400,03,az,Azerbaijan,FONEX,2023-01-01 00:00:00,infinity,active
+1112,400,04,az,Azerbaijan,Nar Mobile,2023-01-01 00:00:00,infinity,active
+1113,400,06,az,Azerbaijan,Naxtel,2023-01-01 00:00:00,infinity,active
+1114,401,01,kz,Kazakhstan,Beeline/KaR-Tel LLP,2023-01-01 00:00:00,infinity,active
+1115,401,02,kz,Kazakhstan,K-Cell,2023-01-01 00:00:00,infinity,active
+1116,401,07,kz,Kazakhstan,Dalacom/Altel,2023-01-01 00:00:00,infinity,active
+1117,401,77,kz,Kazakhstan,Tele2/NEO/MTS,2023-01-01 00:00:00,infinity,active
+1118,402,11,bt,Bhutan,B-Mobile,2023-01-01 00:00:00,infinity,active
+1119,402,17,bt,Bhutan,Bhutan Telecom Ltd (BTL),2023-01-01 00:00:00,infinity,active
+1120,402,77,bt,Bhutan,TashiCell,2023-01-01 00:00:00,infinity,active
+1121,404,01,in,India,Aircel Digilink India,2023-01-01 00:00:00,infinity,active
+1122,404,045,in,India,Bharti Airtel Limited (Karnataka) (India),2023-01-01 00:00:00,infinity,active
+1123,404,04,in,India,Idea Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1124,404,05,in,India,Fascel,2023-01-01 00:00:00,infinity,active
+1125,404,07,in,India,Idea Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1126,404,09,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1127,404,10,in,India,Bharti Airtel Limited (Delhi),2023-01-01 00:00:00,infinity,active
+1128,404,11,in,India,Sterling Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1129,404,12,in,India,Escotel Mobile Communications,2023-01-01 00:00:00,infinity,active
+1130,404,13,in,India,Barakhamba Sales & Serv.,2023-01-01 00:00:00,infinity,active
+1131,404,14,in,India,Spice,2023-01-01 00:00:00,infinity,active
+1132,404,15,in,India,Aircel Digilink India,2023-01-01 00:00:00,infinity,active
+1133,404,16,in,India,Hexcom India,2023-01-01 00:00:00,infinity,active
+1134,404,17,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1135,404,18,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1136,404,19,in,India,Escotel Mobile Communications,2023-01-01 00:00:00,infinity,active
+1137,404,20,in,India,Unknown,2023-01-01 00:00:00,infinity,active
+1138,404,22,in,India,Idea Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1139,404,24,in,India,Idea Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1140,404,25,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1141,404,27,in,India,Unknown,2023-01-01 00:00:00,infinity,active
+1142,404,28,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1143,404,29,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1144,404,30,in,India,Usha Martin Telecom,2023-01-01 00:00:00,infinity,active
+1145,404,33,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1146,404,34,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1147,404,36,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1148,404,38,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1149,404,41,in,India,RPG Cellular,2023-01-01 00:00:00,infinity,active
+1150,404,42,in,India,Aircel,2023-01-01 00:00:00,infinity,active
+1151,404,43,in,India,Vodafone/Essar/Hutch,2023-01-01 00:00:00,infinity,active
+1152,404,44,in,India,Spice,2023-01-01 00:00:00,infinity,active
+1153,404,50,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1154,404,51,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1155,404,52,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1156,404,53,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1157,404,54,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1158,404,55,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1159,404,56,in,India,Escotel Mobile Communications,2023-01-01 00:00:00,infinity,active
+1160,404,57,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1161,404,58,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1162,404,59,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1163,404,60,in,India,Aircel Digilink India,2023-01-01 00:00:00,infinity,active
+1164,404,62,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1165,404,64,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1166,404,66,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1167,404,67,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1168,404,68,in,India,Mahanagar Telephone Nigam,2023-01-01 00:00:00,infinity,active
+1169,404,69,in,India,Mahanagar Telephone Nigam,2023-01-01 00:00:00,infinity,active
+1170,404,70,in,India,Hexacom India,2023-01-01 00:00:00,infinity,active
+1171,404,71,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1172,404,72,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1173,404,73,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1174,404,74,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1175,404,75,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1176,404,76,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1177,404,77,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1178,404,78,in,India,Idea Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1179,404,79,in,India,CellOne A&N,2023-01-01 00:00:00,infinity,active
+1180,404,80,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1181,404,81,in,India,BSNL,2023-01-01 00:00:00,infinity,active
+1182,404,82,in,India,Escorts Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+1183,404,83,in,India,Reliable Internet Services,2023-01-01 00:00:00,infinity,active
+1184,404,85,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1185,404,86,in,India,Barakhamba Sales & Serv.,2023-01-01 00:00:00,infinity,active
+1186,404,87,in,India,Escorts Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+1187,404,88,in,India,Escorts Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+1188,404,89,in,India,Escorts Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+1189,404,998,in,India,Fix Line,2023-01-01 00:00:00,infinity,active
+1190,404,999,in,India,Various Networks,2023-01-01 00:00:00,infinity,active
+1191,405,034,in,India,TATA / Karnataka,2023-01-01 00:00:00,infinity,active
+1192,405,05,in,India,Fascel Limited,2023-01-01 00:00:00,infinity,active
+1193,405,53,in,India,AirTel,2023-01-01 00:00:00,infinity,active
+1194,405,87,in,India,Reliance Telecom Private,2023-01-01 00:00:00,infinity,active
+1195,410,01,pk,Pakistan,Jazz,2023-01-01 00:00:00,infinity,active
+1196,410,03,pk,Pakistan,Ufone,2023-01-01 00:00:00,infinity,active
+1197,410,04,pk,Pakistan,Zong,2023-01-01 00:00:00,infinity,active
+1198,410,05,pk,Pakistan,SCOM,2023-01-01 00:00:00,infinity,active
+1199,410,06,pk,Pakistan,Telenor,2023-01-01 00:00:00,infinity,active
+1200,410,07,pk,Pakistan,Jazz,2023-01-01 00:00:00,infinity,active
+1201,410,08,pk,Pakistan,Instaphone,2023-01-01 00:00:00,infinity,active
+1202,410,299,pk,Pakistan,Warid,2023-01-01 00:00:00,infinity,active
+1203,412,01,af,Afghanistan,AWCC,2023-01-01 00:00:00,infinity,active
+1204,412,03,af,Afghanistan,WaselTelecom (WT),2023-01-01 00:00:00,infinity,active
+1205,412,20,af,Afghanistan,Roshan,2023-01-01 00:00:00,infinity,active
+1206,412,30,af,Afghanistan,Etisalat,2023-01-01 00:00:00,infinity,active
+1207,412,40,af,Afghanistan,MTN,2023-01-01 00:00:00,infinity,active
+1208,412,50,af,Afghanistan,Etisalat,2023-01-01 00:00:00,infinity,active
+1209,412,80,af,Afghanistan,Mobifone,2023-01-01 00:00:00,infinity,active
+1210,412,88,af,Afghanistan,Mobifone,2023-01-01 00:00:00,infinity,active
+1211,413,01,lk,Sri Lanka,Mobitel Ltd.,2023-01-01 00:00:00,infinity,active
+1212,413,02,lk,Sri Lanka,MTN/Dialog,2023-01-01 00:00:00,infinity,active
+1213,413,03,lk,Sri Lanka,Etisalat/Tigo,2023-01-01 00:00:00,infinity,active
+1214,413,05,lk,Sri Lanka,Airtel,2023-01-01 00:00:00,infinity,active
+1215,413,08,lk,Sri Lanka,H3G Hutchison,2023-01-01 00:00:00,infinity,active
+1216,414,01,mm,Myanmar,Myanmar Post & Teleco.,2023-01-01 00:00:00,infinity,active
+1217,414,05,mm,Myanmar,Oreedoo,2023-01-01 00:00:00,infinity,active
+1218,414,06,mm,Myanmar,Telenor,2023-01-01 00:00:00,infinity,active
+1219,414,09,mm,Myanmar,Mytel (Myanmar,2023-01-01 00:00:00,infinity,active
+1220,414,999,mm,Myanmar,Fix Line (Myanmar,2023-01-01 00:00:00,infinity,active
+1221,415,01,lb,Lebanon,MIC1 (Alfa),2023-01-01 00:00:00,infinity,active
+1222,415,03,lb,Lebanon,MIC2/LibanCell/MTC,2023-01-01 00:00:00,infinity,active
+1223,415,32,lb,Lebanon,Cellis,2023-01-01 00:00:00,infinity,active
+1224,415,33,lb,Lebanon,Cellis,2023-01-01 00:00:00,infinity,active
+1225,415,34,lb,Lebanon,FTML Cellis,2023-01-01 00:00:00,infinity,active
+1226,415,35,lb,Lebanon,Cellis,2023-01-01 00:00:00,infinity,active
+1227,415,36,lb,Lebanon,MIC2/LibanCell/MTC,2023-01-01 00:00:00,infinity,active
+1228,415,37,lb,Lebanon,MIC2/LibanCell/MTC,2023-01-01 00:00:00,infinity,active
+1229,415,38,lb,Lebanon,MIC2/LibanCell/MTC,2023-01-01 00:00:00,infinity,active
+1230,415,39,lb,Lebanon,MIC2/LibanCell/MTC,2023-01-01 00:00:00,infinity,active
+1231,416,01,jo,Jordan,Zain,2023-01-01 00:00:00,infinity,active
+1232,416,02,jo,Jordan,Xpress,2023-01-01 00:00:00,infinity,active
+1233,416,03,jo,Jordan,Umniah,2023-01-01 00:00:00,infinity,active
+1234,416,77,jo,Jordan,Orange,2023-01-01 00:00:00,infinity,active
+1235,416,999,jo,Jordan,Fix Line,2023-01-01 00:00:00,infinity,active
+1236,417,01,sy,Syria,Syriatel Holdings,2023-01-01 00:00:00,infinity,active
+1237,417,09,sy,Syria,Syriatel Holdings,2023-01-01 00:00:00,infinity,active
+1238,418,05,iq,Iraq,Asia Cell,2023-01-01 00:00:00,infinity,active
+1239,418,08,iq,Iraq,Sanatel,2023-01-01 00:00:00,infinity,active
+1240,418,20,iq,Iraq,Zain,2023-01-01 00:00:00,infinity,active
+1241,418,30,iq,Iraq,Zain,2023-01-01 00:00:00,infinity,active
+1242,418,40,iq,Iraq,Korek,2023-01-01 00:00:00,infinity,active
+1243,418,45,iq,Iraq,Mobitel,2023-01-01 00:00:00,infinity,active
+1244,418,66,iq,Iraq,Fastlink,2023-01-01 00:00:00,infinity,active
+1245,418,82,iq,Iraq,Korek,2023-01-01 00:00:00,infinity,active
+1246,418,92,iq,Iraq,Itisaluna and Kalemat,2023-01-01 00:00:00,infinity,active
+1247,419,02,kw,Kuwait,Zain,2023-01-01 00:00:00,infinity,active
+1248,419,03,kw,Kuwait,Ooredoo,2023-01-01 00:00:00,infinity,active
+1249,419,04,kw,Kuwait,Viva,2023-01-01 00:00:00,infinity,active
+1250,419,999,kw,Kuwait,Fix Line,2023-01-01 00:00:00,infinity,active
+1251,420,01,sa,Saudi Arabia,STC/Al Jawal,2023-01-01 00:00:00,infinity,active
+1252,420,03,sa,Saudi Arabia,Etihad/Etisalat/Mobily,2023-01-01 00:00:00,infinity,active
+1253,420,04,sa,Saudi Arabia,Zain,2023-01-01 00:00:00,infinity,active
+1254,420,05,sa,Saudi Arabia,Virgin Mobile,2023-01-01 00:00:00,infinity,active
+1255,420,06,sa,Saudi Arabia,Lebara Mobile,2023-01-01 00:00:00,infinity,active
+1256,420,07,sa,Saudi Arabia,Zain,2023-01-01 00:00:00,infinity,active
+1257,421,01,ye,Yemen,Sabaphone,2023-01-01 00:00:00,infinity,active
+1258,421,02,ye,Yemen,MTN/Spacetel,2023-01-01 00:00:00,infinity,active
+1259,421,03,ye,Yemen,Yemen Mob. CDMA,2023-01-01 00:00:00,infinity,active
+1260,421,04,ye,Yemen,HITS/Y Unitel,2023-01-01 00:00:00,infinity,active
+1261,421,999,ye,Yemen,Fix Line,2023-01-01 00:00:00,infinity,active
+1262,422,02,om,Oman,Oman Mobile/GTO,2023-01-01 00:00:00,infinity,active
+1263,422,03,om,Oman,Nawras,2023-01-01 00:00:00,infinity,active
+1264,424,02,ae,United Arab Emirates,Etisalat,2023-01-01 00:00:00,infinity,active
+1265,424,03,ae,United Arab Emirates,DU,2023-01-01 00:00:00,infinity,active
+1266,425,01,il,Israel,Orange,2023-01-01 00:00:00,infinity,active
+1267,425,02,il,Israel,Cellcom,2023-01-01 00:00:00,infinity,active
+1268,425,03,il,Israel,Pelephone,2023-01-01 00:00:00,infinity,active
+1269,425,05,ps,Palestinian Territory,Jawwal,2023-01-01 00:00:00,infinity,active
+1270,425,06,ps,Palestinian Territory,Ooredoo,2023-01-01 00:00:00,infinity,active
+1271,425,07,il,Israel,Hot Mobile,2023-01-01 00:00:00,infinity,active
+1272,425,08,il,Israel,Golan Telecom,2023-01-01 00:00:00,infinity,active
+1273,425,09,il,Israel,We4G,2023-01-01 00:00:00,infinity,active
+1274,425,12,il,Israel,Pelephone,2023-01-01 00:00:00,infinity,active
+1275,425,13,il,Israel,Ituran,2023-01-01 00:00:00,infinity,active
+1276,425,14,il,Israel,YouPhone,2023-01-01 00:00:00,infinity,active
+1277,425,15,il,Israel,Home Cellular,2023-01-01 00:00:00,infinity,active
+1278,425,16,il,Israel,Rami Levy Communications,2023-01-01 00:00:00,infinity,active
+1279,425,17,il,Israel,Von waves,2023-01-01 00:00:00,infinity,active
+1280,425,19,il,Israel,Telzar/AZI,2023-01-01 00:00:00,infinity,active
+1281,425,22,il,Israel,Maskyoo,2023-01-01 00:00:00,infinity,active
+1282,425,23,il,Israel,Beezz,2023-01-01 00:00:00,infinity,active
+1283,425,299,il,Israel,T2T,2023-01-01 00:00:00,infinity,active
+1284,425,77,il,Israel,Hot Mobile,2023-01-01 00:00:00,infinity,active
+1285,426,01,bh,Bahrain,Batelco,2023-01-01 00:00:00,infinity,active
+1286,426,02,bh,Bahrain,Zain,2023-01-01 00:00:00,infinity,active
+1287,426,04,bh,Bahrain,VIVA,2023-01-01 00:00:00,infinity,active
+1288,426,05,bh,Bahrain,Royal Court,2023-01-01 00:00:00,infinity,active
+1289,426,299,bh,Bahrain,Failed Calls,2023-01-01 00:00:00,infinity,active
+1290,426,999,bh,Bahrain,Fix Line,2023-01-01 00:00:00,infinity,active
+1291,427,01,qa,Qatar,Ooredoo/Qtel,2023-01-01 00:00:00,infinity,active
+1292,427,02,qa,Qatar,Vodafone,2023-01-01 00:00:00,infinity,active
+1293,428,00,mn,Mongolia,Skytel Co. Ltd,2023-01-01 00:00:00,infinity,active
+1294,428,88,mn,Mongolia,Unitel,2023-01-01 00:00:00,infinity,active
+1295,428,91,mn,Mongolia,Skytel Co. Ltd,2023-01-01 00:00:00,infinity,active
+1296,428,98,mn,Mongolia,G-Mobile Corporation Ltd,2023-01-01 00:00:00,infinity,active
+1297,428,99,mn,Mongolia,Mobicom,2023-01-01 00:00:00,infinity,active
+1298,429,01,np,Nepal,NT Mobile / Namaste,2023-01-01 00:00:00,infinity,active
+1299,429,02,np,Nepal,Ncell,2023-01-01 00:00:00,infinity,active
+1300,429,04,np,Nepal,Smart Cell,2023-01-01 00:00:00,infinity,active
+1301,429,999,np,Nepal,Fix Line,2023-01-01 00:00:00,infinity,active
+1302,430,02,ae,United Arab Emirates,Etisalat,2023-01-01 00:00:00,infinity,active
+1303,431,02,ae,United Arab Emirates,Etisalat,2023-01-01 00:00:00,infinity,active
+1304,432,11,ir,Iran,MCI/TCI,2023-01-01 00:00:00,infinity,active
+1305,432,14,ir,Iran,TKC/KFZO,2023-01-01 00:00:00,infinity,active
+1306,432,19,ir,Iran,Mobile Telecommunications Company of Esfahan JV-PJS (MTCE),2023-01-01 00:00:00,infinity,active
+1307,432,20,ir,Iran,Rightel,2023-01-01 00:00:00,infinity,active
+1308,432,32,ir,Iran,Taliya,2023-01-01 00:00:00,infinity,active
+1309,432,35,ir,Iran,MTN/IranCell,2023-01-01 00:00:00,infinity,active
+1311,432,999,ir,Iran,Fix Line,2023-01-01 00:00:00,infinity,active
+1312,434,01,uz,Uzbekistan,Buztel,2023-01-01 00:00:00,infinity,active
+1313,434,02,uz,Uzbekistan,Uzmacom,2023-01-01 00:00:00,infinity,active
+1314,434,04,uz,Uzbekistan,Bee Line/Unitel,2023-01-01 00:00:00,infinity,active
+1315,434,05,uz,Uzbekistan,Ucell/Coscom,2023-01-01 00:00:00,infinity,active
+1316,434,07,uz,Uzbekistan,MTS/Uzdunrobita,2023-01-01 00:00:00,infinity,active
+1317,436,01,tj,Tajikistan,Tcell/JC Somoncom,2023-01-01 00:00:00,infinity,active
+1318,436,02,tj,Tajikistan,CJSC Indigo Tajikistan,2023-01-01 00:00:00,infinity,active
+1319,436,03,tj,Tajikistan,Megafon,2023-01-01 00:00:00,infinity,active
+1320,436,04,tj,Tajikistan,Babilon-M,2023-01-01 00:00:00,infinity,active
+1321,436,05,tj,Tajikistan,Bee Line,2023-01-01 00:00:00,infinity,active
+1322,436,12,tj,Tajikistan,Tcell/JC Somoncom,2023-01-01 00:00:00,infinity,active
+1323,437,01,kg,Kyrgyzstan,Beeline,2023-01-01 00:00:00,infinity,active
+1324,437,02,kg,Kyrgyzstan,KT Mobile,2023-01-01 00:00:00,infinity,active
+1325,437,03,kg,Kyrgyzstan,Sem Mobile,2023-01-01 00:00:00,infinity,active
+1326,437,05,kg,Kyrgyzstan,MegaCom,2023-01-01 00:00:00,infinity,active
+1327,437,09,kg,Kyrgyzstan,O!,2023-01-01 00:00:00,infinity,active
+1328,437,10,kg,Kyrgyzstan,Saima,2023-01-01 00:00:00,infinity,active
+1329,437,299,kg,Kyrgyzstan,Failed Calls,2023-01-01 00:00:00,infinity,active
+1330,438,01,tm,Turkmenistan,MTS/Barash Communication,2023-01-01 00:00:00,infinity,active
+1331,438,02,tm,Turkmenistan,Altyn Asyr/TM-Cell,2023-01-01 00:00:00,infinity,active
+1332,440,00,jp,Japan,Y-Mobile,2023-01-01 00:00:00,infinity,active
+1333,440,01,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1334,440,02,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1335,440,03,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1336,440,04,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1337,440,05,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1338,440,06,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1339,440,07,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1340,440,08,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1341,440,09,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1342,440,10,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1343,440,11,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1344,440,12,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1345,440,13,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1346,440,14,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1347,440,15,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1348,440,16,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1349,440,17,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1350,440,18,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1351,440,19,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1352,440,20,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1353,440,21,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1354,440,22,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1355,440,23,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1356,440,24,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1357,440,25,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1358,440,26,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1359,440,27,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1360,440,28,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1361,440,29,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1362,440,30,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1363,440,31,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1364,440,32,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1365,440,33,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1366,440,34,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1367,440,35,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1368,440,36,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1369,440,37,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1370,440,38,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1371,440,39,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1372,440,40,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1373,440,41,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1374,440,42,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1375,440,43,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1376,440,44,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1377,440,45,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1378,440,46,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1379,440,47,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1380,440,48,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1381,440,49,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1382,440,50,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1383,440,51,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1384,440,52,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1385,440,53,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1386,440,54,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1387,440,55,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1388,440,56,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1389,440,58,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1390,440,60,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1391,440,61,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1392,440,62,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1393,440,63,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1394,440,64,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1395,440,65,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1396,440,66,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1397,440,67,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1398,440,68,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1399,440,69,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1400,440,70,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1401,440,71,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1402,440,72,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1403,440,73,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1404,440,74,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1405,440,75,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1406,440,76,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1407,440,77,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1408,440,78,jp,Japan,Okinawa Cellular,2023-01-01 00:00:00,infinity,active
+1409,440,79,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1410,440,80,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1411,440,81,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1412,440,82,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1413,440,83,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1414,440,84,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1415,440,85,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1416,440,86,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1417,440,87,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1418,440,88,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1419,440,89,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1420,440,90,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1421,440,92,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1422,440,93,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1423,440,94,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1424,440,95,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1425,440,96,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1426,440,97,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1427,440,98,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1428,440,99,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1429,441,40,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1430,441,41,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1431,441,42,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1432,441,43,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1433,441,44,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1434,441,45,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1435,441,61,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1436,441,62,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1437,441,63,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1438,441,64,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1439,441,65,jp,Japan,SoftBank,2023-01-01 00:00:00,infinity,active
+1440,441,70,jp,Japan,KDDI,2023-01-01 00:00:00,infinity,active
+1441,441,90,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1442,441,91,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1443,441,92,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1444,441,93,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1445,441,94,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1446,441,98,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1447,441,99,jp,Japan,NTT DoCoMo,2023-01-01 00:00:00,infinity,active
+1448,450,02,kr,South Korea,olleh / KT,2023-01-01 00:00:00,infinity,active
+1449,450,03,kr,South Korea,SK Telecom,2023-01-01 00:00:00,infinity,active
+1450,450,04,kr,South Korea,olleh / KT,2023-01-01 00:00:00,infinity,active
+1451,450,05,kr,South Korea,SK Telecom,2023-01-01 00:00:00,infinity,active
+1452,450,06,kr,South Korea,LG U+,2023-01-01 00:00:00,infinity,active
+1453,450,07,kr,South Korea,KT Powertel,2023-01-01 00:00:00,infinity,active
+1454,450,08,kr,South Korea,olleh / KT,2023-01-01 00:00:00,infinity,active
+1455,450,11,kr,South Korea,SK Telecom,2023-01-01 00:00:00,infinity,active
+1456,450,12,kr,South Korea,SK Telecom,2023-01-01 00:00:00,infinity,active
+1457,450,299,kr,South Korea,Failed Calls,2023-01-01 00:00:00,infinity,active
+1458,452,01,vn,Vietnam,MobiFone,2023-01-01 00:00:00,infinity,active
+1459,452,02,vn,Vietnam,VinaPhone,2023-01-01 00:00:00,infinity,active
+1460,452,03,vn,Vietnam,S-Fone/Telecom,2023-01-01 00:00:00,infinity,active
+1461,452,04,vn,Vietnam,Viettel,2023-01-01 00:00:00,infinity,active
+1462,452,05,vn,Vietnam,Vietnamobile,2023-01-01 00:00:00,infinity,active
+1463,452,06,vn,Vietnam,Viettel,2023-01-01 00:00:00,infinity,active
+1464,452,07,vn,Vietnam,Gmobile,2023-01-01 00:00:00,infinity,active
+1465,452,08,vn,Vietnam,I-Telecom,2023-01-01 00:00:00,infinity,active
+1466,452,09,vn,Vietnam,Reddi,2023-01-01 00:00:00,infinity,active
+1467,454,00,hk,Hongkong,CSL Ltd.,2023-01-01 00:00:00,infinity,active
+1468,454,01,hk,Hongkong,Citic Telecom Ltd.,2023-01-01 00:00:00,infinity,active
+1469,454,02,hk,Hongkong,CSL Ltd.,2023-01-01 00:00:00,infinity,active
+1470,454,03,hk,Hongkong,H3G/Hutchinson,2023-01-01 00:00:00,infinity,active
+1471,454,04,hk,Hongkong,H3G/Hutchinson,2023-01-01 00:00:00,infinity,active
+1472,454,05,hk,Hongkong,H3G/Hutchinson,2023-01-01 00:00:00,infinity,active
+1473,454,06,hk,Hongkong,Vodafone/SmarTone,2023-01-01 00:00:00,infinity,active
+1474,454,07,hk,Hongkong,China Unicom Ltd,2023-01-01 00:00:00,infinity,active
+1475,454,08,hk,Hongkong,Truephone,2023-01-01 00:00:00,infinity,active
+1476,454,09,hk,Hongkong,China Motion,2023-01-01 00:00:00,infinity,active
+1477,454,10,hk,Hongkong,CSL/New World PCS Ltd.,2023-01-01 00:00:00,infinity,active
+1478,454,11,hk,Hongkong,China-HongKong Telecom Ltd (CHKTL),2023-01-01 00:00:00,infinity,active
+1479,454,12,hk,Hongkong,China Mobile/Peoples,2023-01-01 00:00:00,infinity,active
+1480,454,13,hk,Hongkong,China Mobile/Peoples,2023-01-01 00:00:00,infinity,active
+1481,454,14,hk,Hongkong,H3G/Hutchinson,2023-01-01 00:00:00,infinity,active
+1482,454,15,hk,Hongkong,Vodafone/SmarTone,2023-01-01 00:00:00,infinity,active
+1483,454,16,hk,Hongkong,HKT/PCCW,2023-01-01 00:00:00,infinity,active
+1484,454,17,hk,Hongkong,Vodafone/SmarTone,2023-01-01 00:00:00,infinity,active
+1485,454,18,hk,Hongkong,CSL Ltd.,2023-01-01 00:00:00,infinity,active
+1486,454,19,hk,Hongkong,HKT/PCCW,2023-01-01 00:00:00,infinity,active
+1487,454,20,hk,Hongkong,HKT/PCCW,2023-01-01 00:00:00,infinity,active
+1488,454,24,hk,Hongkong,Multibyte Info Technology Ltd,2023-01-01 00:00:00,infinity,active
+1489,454,28,hk,Hongkong,China Mobile/Peoples,2023-01-01 00:00:00,infinity,active
+1490,454,29,hk,Hongkong,HKT/PCCW,2023-01-01 00:00:00,infinity,active
+1491,454,31,hk,Hongkong,CTExcel,2023-01-01 00:00:00,infinity,active
+1492,454,40,hk,Hongkong,shared by private TETRA systems,2023-01-01 00:00:00,infinity,active
+1493,454,47,hk,Hongkong,shared by private TETRA systems,2023-01-01 00:00:00,infinity,active
+1494,455,00,mo,Macao,Smartone Mobile,2023-01-01 00:00:00,infinity,active
+1495,455,01,mo,Macao,C.T.M. TELEMOVEL+,2023-01-01 00:00:00,infinity,active
+1496,455,02,mo,Macao,China Telecom,2023-01-01 00:00:00,infinity,active
+1497,455,03,mo,Macao,Hutchison Telephone Co. Ltd,2023-01-01 00:00:00,infinity,active
+1498,455,04,mo,Macao,C.T.M. TELEMOVEL+,2023-01-01 00:00:00,infinity,active
+1499,455,05,mo,Macao,Hutchison Telephone Co. Ltd,2023-01-01 00:00:00,infinity,active
+1500,455,06,mo,Macao,Smartone Mobile,2023-01-01 00:00:00,infinity,active
+1501,456,01,kh,Cambodia,Cellcard,2023-01-01 00:00:00,infinity,active
+1502,456,02,kh,Cambodia,Smart,2023-01-01 00:00:00,infinity,active
+1503,456,03,kh,Cambodia,QB/Cambodia Adv. Comms.,2023-01-01 00:00:00,infinity,active
+1504,456,04,kh,Cambodia,QB,2023-01-01 00:00:00,infinity,active
+1505,456,05,kh,Cambodia,Smart,2023-01-01 00:00:00,infinity,active
+1506,456,06,kh,Cambodia,Smart,2023-01-01 00:00:00,infinity,active
+1507,456,08,kh,Cambodia,Metfone,2023-01-01 00:00:00,infinity,active
+1508,456,09,kh,Cambodia,Sotelco/Beeline,2023-01-01 00:00:00,infinity,active
+1509,456,11,kh,Cambodia,Seatel,2023-01-01 00:00:00,infinity,active
+1510,456,18,kh,Cambodia,Cellcard,2023-01-01 00:00:00,infinity,active
+1511,456,299,kh,Cambodia,CooTel,2023-01-01 00:00:00,infinity,active
+1512,457,01,la,Laos,Lao Tel,2023-01-01 00:00:00,infinity,active
+1513,457,02,la,Laos,ETL Mobile,2023-01-01 00:00:00,infinity,active
+1514,457,03,la,Laos,UNITEL/LAT,2023-01-01 00:00:00,infinity,active
+1515,457,08,la,Laos,Beeline/Tigo/Millicom,2023-01-01 00:00:00,infinity,active
+1516,460,00,cn,China,China Mobile GSM,2023-01-01 00:00:00,infinity,active
+1517,460,01,cn,China,China Unicom,2023-01-01 00:00:00,infinity,active
+1518,460,02,cn,China,China Mobile GSM,2023-01-01 00:00:00,infinity,active
+1519,460,03,cn,China,China Telecom,2023-01-01 00:00:00,infinity,active
+1520,460,04,cn,China,China Space Mobile Satellite Telecommunications Co. Ltd (China Spacecom),2023-01-01 00:00:00,infinity,active
+1521,460,05,cn,China,China Telecom,2023-01-01 00:00:00,infinity,active
+1522,460,06,cn,China,China Unicom,2023-01-01 00:00:00,infinity,active
+1523,460,07,cn,China,China Mobile GSM,2023-01-01 00:00:00,infinity,active
+1524,460,999,cn,China,Fix Line,2023-01-01 00:00:00,infinity,active
+1525,466,01,tw,Taiwan,Far EasTone,2023-01-01 00:00:00,infinity,active
+1526,466,02,tw,Taiwan,Far EasTone,2023-01-01 00:00:00,infinity,active
+1527,466,03,tw,Taiwan,Far EasTone,2023-01-01 00:00:00,infinity,active
+1528,466,05,tw,Taiwan,Asia Pacific Telecom Co. Ltd (APT),2023-01-01 00:00:00,infinity,active
+1529,466,06,tw,Taiwan,Far EasTone,2023-01-01 00:00:00,infinity,active
+1530,466,07,tw,Taiwan,Far EasTone,2023-01-01 00:00:00,infinity,active
+1531,466,09,tw,Taiwan,VMAX Telecom Co. Ltd,2023-01-01 00:00:00,infinity,active
+1532,466,10,tw,Taiwan,Global Mobile Corp.,2023-01-01 00:00:00,infinity,active
+1533,466,11,tw,Taiwan,Chunghwa Telecom LDM,2023-01-01 00:00:00,infinity,active
+1534,466,56,tw,Taiwan,International Telecom Co. Ltd (FITEL),2023-01-01 00:00:00,infinity,active
+1535,466,68,tw,Taiwan,ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd,2023-01-01 00:00:00,infinity,active
+1536,466,88,tw,Taiwan,KG Telecom,2023-01-01 00:00:00,infinity,active
+1537,466,89,tw,Taiwan,T-Star/VIBO,2023-01-01 00:00:00,infinity,active
+1538,466,90,tw,Taiwan,T-Star/VIBO,2023-01-01 00:00:00,infinity,active
+1539,466,92,tw,Taiwan,Chunghwa Telecom LDM,2023-01-01 00:00:00,infinity,active
+1540,466,93,tw,Taiwan,Mobitai,2023-01-01 00:00:00,infinity,active
+1541,466,97,tw,Taiwan,Taiwan Cellular,2023-01-01 00:00:00,infinity,active
+1542,466,99,tw,Taiwan,TransAsia,2023-01-01 00:00:00,infinity,active
+1543,467,192,kp,North Korea,Koryolink,2023-01-01 00:00:00,infinity,active
+1544,467,193,kp,North Korea,Sun Net,2023-01-01 00:00:00,infinity,active
+1545,467,299,kp,North Korea,Kangsung Net,2023-01-01 00:00:00,infinity,active
+1546,470,01,bd,Bangladesh,GrameenPhone,2023-01-01 00:00:00,infinity,active
+1547,470,02,bd,Bangladesh,Airtel,2023-01-01 00:00:00,infinity,active
+1548,470,03,bd,Bangladesh,Banglalink,2023-01-01 00:00:00,infinity,active
+1549,470,04,bd,Bangladesh,TeleTalk,2023-01-01 00:00:00,infinity,active
+1550,470,05,bd,Bangladesh,Citycell,2023-01-01 00:00:00,infinity,active
+1551,470,06,bd,Bangladesh,Citycell,2023-01-01 00:00:00,infinity,active
+1552,470,07,bd,Bangladesh,Airtel,2023-01-01 00:00:00,infinity,active
+1553,472,01,mv,Maldives,Dhiraagu/C&W,2023-01-01 00:00:00,infinity,active
+1554,472,02,mv,Maldives,Ooredo/Wataniya,2023-01-01 00:00:00,infinity,active
+1555,502,01,my,Malaysia,Art900,2023-01-01 00:00:00,infinity,active
+1556,502,10,my,Malaysia,DiGi,2023-01-01 00:00:00,infinity,active
+1557,502,11,my,Malaysia,Telekom Malaysia,2023-01-01 00:00:00,infinity,active
+1558,502,12,my,Malaysia,Maxis,2023-01-01 00:00:00,infinity,active
+1559,502,13,my,Malaysia,Celcom,2023-01-01 00:00:00,infinity,active
+1560,502,14,my,Malaysia,Telekom Malaysia,2023-01-01 00:00:00,infinity,active
+1561,502,150,my,Malaysia,Tune Talk,2023-01-01 00:00:00,infinity,active
+1562,502,151,my,Malaysia,Baraka Telecom Sdn Bhd,2023-01-01 00:00:00,infinity,active
+1563,502,152,my,Malaysia,Yes,2023-01-01 00:00:00,infinity,active
+1564,502,153,my,Malaysia,Webe Digital,2023-01-01 00:00:00,infinity,active
+1565,502,154,my,Malaysia,TT dotCom,2023-01-01 00:00:00,infinity,active
+1566,502,155,my,Malaysia,Samata Communications Sdn Bhd,2023-01-01 00:00:00,infinity,active
+1567,502,156,my,Malaysia,Altel Communications,2023-01-01 00:00:00,infinity,active
+1568,502,16,my,Malaysia,DiGi,2023-01-01 00:00:00,infinity,active
+1569,502,17,my,Malaysia,Maxis,2023-01-01 00:00:00,infinity,active
+1570,502,18,my,Malaysia,U Mobile,2023-01-01 00:00:00,infinity,active
+1571,502,19,my,Malaysia,Celcom,2023-01-01 00:00:00,infinity,active
+1572,502,195,my,Malaysia,XOX Com,2023-01-01 00:00:00,infinity,active
+1573,502,198,my,Malaysia,Celcom,2023-01-01 00:00:00,infinity,active
+1574,502,20,my,Malaysia,Electcoms Wireless Sdn Bhd,2023-01-01 00:00:00,infinity,active
+1575,502,299,my,Malaysia,Maxis Broadband,2023-01-01 00:00:00,infinity,active
+1576,502,999,my,Malaysia,Fix Line,2023-01-01 00:00:00,infinity,active
+1577,505,01,au,Australia,Telstra,2023-01-01 00:00:00,infinity,active
+1578,505,02,au,Australia,Optus,2023-01-01 00:00:00,infinity,active
+1579,505,03,au,Australia,Vodafone,2023-01-01 00:00:00,infinity,active
+1580,505,04,au,Australia,Department of Defense,2023-01-01 00:00:00,infinity,active
+1581,505,05,au,Australia,The Ozitel Network Pty.,2023-01-01 00:00:00,infinity,active
+1582,505,06,au,Australia,Vodafone,2023-01-01 00:00:00,infinity,active
+1583,505,07,au,Australia,Vodafone,2023-01-01 00:00:00,infinity,active
+1584,505,08,au,Australia,Railcorp/Vodafone,2023-01-01 00:00:00,infinity,active
+1585,505,09,au,Australia,Airnet Commercial Australia Ltd..,2023-01-01 00:00:00,infinity,active
+1586,505,10,au,Australia,Norfolk Telecom,2023-01-01 00:00:00,infinity,active
+1587,505,11,au,Australia,Telstra,2023-01-01 00:00:00,infinity,active
+1588,505,12,au,Australia,Vodafone,2023-01-01 00:00:00,infinity,active
+1589,505,13,au,Australia,Railcorp/Vodafone,2023-01-01 00:00:00,infinity,active
+1590,505,14,au,Australia,AAPT Ltd.,2023-01-01 00:00:00,infinity,active
+1591,505,16,au,Australia,VicTrack,2023-01-01 00:00:00,infinity,active
+1592,505,19,au,Australia,Lycamobile,2023-01-01 00:00:00,infinity,active
+1593,505,24,au,Australia,Advanced Comm Tech Pty.,2023-01-01 00:00:00,infinity,active
+1594,505,26,au,Australia,Sinch,2023-01-01 00:00:00,infinity,active
+1595,505,299,au,Australia,Symbio,2023-01-01 00:00:00,infinity,active
+1596,505,30,au,Australia,Compatel,2023-01-01 00:00:00,infinity,active
+1597,505,35,au,Australia,MessageBird,2023-01-01 00:00:00,infinity,active
+1598,505,39,au,Australia,Telstra,2023-01-01 00:00:00,infinity,active
+1599,505,50,au,Australia,Pivotel,2023-01-01 00:00:00,infinity,active
+1600,505,71,au,Australia,Telstra,2023-01-01 00:00:00,infinity,active
+1601,505,72,au,Australia,Telstra,2023-01-01 00:00:00,infinity,active
+1602,505,88,au,Australia,Pivotel Group Ltd,2023-01-01 00:00:00,infinity,active
+1603,505,90,au,Australia,Optus,2023-01-01 00:00:00,infinity,active
+1604,505,99,au,Australia,Railcorp/Vodafone,2023-01-01 00:00:00,infinity,active
+1605,505,999,au,Australia,Fix Line,2023-01-01 00:00:00,infinity,active
+1606,510,00,id,Indonesia,PT Pasifik Satelit Nusantara (PSN),2023-01-01 00:00:00,infinity,active
+1607,510,01,id,Indonesia,Indosat/Satelindo/M3,2023-01-01 00:00:00,infinity,active
+1608,510,07,id,Indonesia,Telkomsel,2023-01-01 00:00:00,infinity,active
+1609,510,08,id,Indonesia,Axis/Natrindo,2023-01-01 00:00:00,infinity,active
+1610,510,09,id,Indonesia,PT Smartfren Telecom Tbk,2023-01-01 00:00:00,infinity,active
+1611,510,10,id,Indonesia,Telkomsel,2023-01-01 00:00:00,infinity,active
+1612,510,11,id,Indonesia,PT. Excelcom,2023-01-01 00:00:00,infinity,active
+1613,510,21,id,Indonesia,Indosat/Satelindo/M3,2023-01-01 00:00:00,infinity,active
+1614,510,27,id,Indonesia,PT Sampoerna Telekomunikasi Indonesia (STI),2023-01-01 00:00:00,infinity,active
+1615,510,28,id,Indonesia,PT Smartfren Telecom Tbk,2023-01-01 00:00:00,infinity,active
+1616,510,89,id,Indonesia,H3G CP,2023-01-01 00:00:00,infinity,active
+1617,510,99,id,Indonesia,Esia (PT Bakrie Telecom) (CDMA),2023-01-01 00:00:00,infinity,active
+1618,510,999,id,Indonesia,Fix Line,2023-01-01 00:00:00,infinity,active
+1619,514,01,tl,East Timor,Telkomcel,2023-01-01 00:00:00,infinity,active
+1620,514,02,tl,East Timor,Timor Telecom,2023-01-01 00:00:00,infinity,active
+1621,514,03,tl,East Timor,Telemor,2023-01-01 00:00:00,infinity,active
+1622,514,299,tl,East Timor,Failed Calls,2023-01-01 00:00:00,infinity,active
+1623,514,999,tl,East Timor,Fix Line,2023-01-01 00:00:00,infinity,active
+1624,515,01,ph,Philippines,Globe Telecom,2023-01-01 00:00:00,infinity,active
+1625,515,02,ph,Philippines,Globe Telecom,2023-01-01 00:00:00,infinity,active
+1626,515,03,ph,Philippines,Smart,2023-01-01 00:00:00,infinity,active
+1627,515,05,ph,Philippines,SUN/Digitel,2023-01-01 00:00:00,infinity,active
+1628,515,18,ph,Philippines,RED Mobile/Cure,2023-01-01 00:00:00,infinity,active
+1629,515,88,ph,Philippines,Next Mobile,2023-01-01 00:00:00,infinity,active
+1630,515,999,ph,Philippines,Fix Line,2023-01-01 00:00:00,infinity,active
+1631,520,00,th,Thailand,Hutch/CAT CDMA,2023-01-01 00:00:00,infinity,active
+1632,520,01,th,Thailand,AIS/Advanced Info Service,2023-01-01 00:00:00,infinity,active
+1633,520,03,th,Thailand,AIS/Advanced Info Service,2023-01-01 00:00:00,infinity,active
+1634,520,04,th,Thailand,True Move/Orange,2023-01-01 00:00:00,infinity,active
+1635,520,05,th,Thailand,Total Access (DTAC),2023-01-01 00:00:00,infinity,active
+1636,520,15,th,Thailand,ACT Mobile,2023-01-01 00:00:00,infinity,active
+1637,520,18,th,Thailand,Total Access (DTAC),2023-01-01 00:00:00,infinity,active
+1638,520,20,th,Thailand,ACeS Thailand - ACeS Regional Services Co Ltd,2023-01-01 00:00:00,infinity,active
+1639,520,23,th,Thailand,Digital Phone Co.,2023-01-01 00:00:00,infinity,active
+1640,520,99,th,Thailand,True Move/Orange,2023-01-01 00:00:00,infinity,active
+1641,520,999,th,Thailand,Fix Line,2023-01-01 00:00:00,infinity,active
+1642,525,01,sg,Singapore,Singtel,2023-01-01 00:00:00,infinity,active
+1643,525,02,sg,Singapore,Singtel,2023-01-01 00:00:00,infinity,active
+1644,525,03,sg,Singapore,MobileOne Ltd,2023-01-01 00:00:00,infinity,active
+1645,525,05,sg,Singapore,Starhub,2023-01-01 00:00:00,infinity,active
+1646,525,06,sg,Singapore,Starhub,2023-01-01 00:00:00,infinity,active
+1647,525,07,sg,Singapore,Singtel,2023-01-01 00:00:00,infinity,active
+1648,525,12,sg,Singapore,GRID Communications Pte Ltd,2023-01-01 00:00:00,infinity,active
+1649,525,999,sg,Singapore,Fix Line,2023-01-01 00:00:00,infinity,active
+1650,528,01,bn,Brunei,Telekom Brunei Bhd (TelBru),2023-01-01 00:00:00,infinity,active
+1651,528,02,bn,Brunei,b-mobile,2023-01-01 00:00:00,infinity,active
+1652,528,11,bn,Brunei,Datastream (DTSCom),2023-01-01 00:00:00,infinity,active
+1653,530,01,nz,New Zealand,Vodafone,2023-01-01 00:00:00,infinity,active
+1654,530,02,nz,New Zealand,Spark Mobile,2023-01-01 00:00:00,infinity,active
+1655,530,03,nz,New Zealand,Walker Wireless Ltd.,2023-01-01 00:00:00,infinity,active
+1656,530,04,nz,New Zealand,Telstra,2023-01-01 00:00:00,infinity,active
+1657,530,05,nz,New Zealand,Spark Mobile,2023-01-01 00:00:00,infinity,active
+1658,530,24,nz,New Zealand,2degrees,2023-01-01 00:00:00,infinity,active
+1659,530,28,nz,New Zealand,2degrees,2023-01-01 00:00:00,infinity,active
+1660,530,999,nz,New Zealand,Fix Line,2023-01-01 00:00:00,infinity,active
+1661,537,01,pg,Papua New Guinea,Pacific Mobile,2023-01-01 00:00:00,infinity,active
+1662,537,02,pg,Papua New Guinea,GreenCom PNG Ltd,2023-01-01 00:00:00,infinity,active
+1663,537,03,pg,Papua New Guinea,Digicel,2023-01-01 00:00:00,infinity,active
+1664,537,999,pg,Papua New Guinea,Fix Line,2023-01-01 00:00:00,infinity,active
+1665,539,01,to,Tonga,Tonga Communications,2023-01-01 00:00:00,infinity,active
+1666,539,43,to,Tonga,Shoreline Communication,2023-01-01 00:00:00,infinity,active
+1667,539,88,to,Tonga,Digicel,2023-01-01 00:00:00,infinity,active
+1668,539,999,to,Tonga,Fix Line,2023-01-01 00:00:00,infinity,active
+1669,540,01,sb,Solomon Islands,BREEZE,2023-01-01 00:00:00,infinity,active
+1670,540,02,sb,Solomon Islands,bemobile,2023-01-01 00:00:00,infinity,active
+1671,540,10,sb,Solomon Islands,BREEZE,2023-01-01 00:00:00,infinity,active
+1672,541,01,vu,Vanuatu,SMILE,2023-01-01 00:00:00,infinity,active
+1673,541,05,vu,Vanuatu,DigiCel,2023-01-01 00:00:00,infinity,active
+1674,542,01,fj,Fiji,Vodafone,2023-01-01 00:00:00,infinity,active
+1675,542,02,fj,Fiji,DigiCell,2023-01-01 00:00:00,infinity,active
+1676,543,01,wf,Wallis and Futuna,Manuia,2023-01-01 00:00:00,infinity,active
+1677,543,299,wf,Wallis and Futuna,Failed Calls,2023-01-01 00:00:00,infinity,active
+1678,544,11,as,American Samoa,BlueSky,2023-01-01 00:00:00,infinity,active
+1679,544,780,as,American Samoa,ASTCA Mobile,2023-01-01 00:00:00,infinity,active
+1680,545,09,ki,Kiribati,Kiribati Frigate,2023-01-01 00:00:00,infinity,active
+1681,546,01,nc,New Caledonia,OPT Mobilis,2023-01-01 00:00:00,infinity,active
+1682,547,15,pf,French Polynesia,Pacific Mobile Telecom (PMT),2023-01-01 00:00:00,infinity,active
+1683,547,20,pf,French Polynesia,Vini/Tikiphone,2023-01-01 00:00:00,infinity,active
+1684,548,01,ck,Cook Islands,Vodafone / Bluesky,2023-01-01 00:00:00,infinity,active
+1685,549,01,ws,Samoa,Telecom Samoa Cellular Ltd.,2023-01-01 00:00:00,infinity,active
+1686,549,27,ws,Samoa,Samoatel Mobile,2023-01-01 00:00:00,infinity,active
+1687,549,999,ws,Samoa,Fix Line,2023-01-01 00:00:00,infinity,active
+1688,550,01,fm,Micronesia,FSM Telecommunications Corp.,2023-01-01 00:00:00,infinity,active
+1689,551,299,mh,Marshall Islands,MINTA,2023-01-01 00:00:00,infinity,active
+1690,552,01,pw,Palau,Palau National Communications Corp. (PNCC) (Palau,2023-01-01 00:00:00,infinity,active
+1691,552,02,pw,Palau,PECI/PalauTel (Palau,2023-01-01 00:00:00,infinity,active
+1692,552,80,pw,Palau,Palau Mobile Corp. (PMC) (Palau,2023-01-01 00:00:00,infinity,active
+1693,553,01,tv,Tuvalu,Tuvalu Telecommunication Corporation (TTC),2023-01-01 00:00:00,infinity,active
+1694,555,01,nu,Niue,Niue Telecom,2023-01-01 00:00:00,infinity,active
+1695,602,01,eg,Egypt,Orange,2023-01-01 00:00:00,infinity,active
+1696,602,02,eg,Egypt,Vodafone,2023-01-01 00:00:00,infinity,active
+1697,602,03,eg,Egypt,Etisalat,2023-01-01 00:00:00,infinity,active
+1698,602,04,eg,Egypt,WE,2023-01-01 00:00:00,infinity,active
+1699,602,299,eg,Egypt,Failed Calls,2023-01-01 00:00:00,infinity,active
+1700,603,01,dz,Algeria,Mobilis,2023-01-01 00:00:00,infinity,active
+1701,603,02,dz,Algeria,Djezzy,2023-01-01 00:00:00,infinity,active
+1702,603,03,dz,Algeria,Ooredoo,2023-01-01 00:00:00,infinity,active
+1703,604,00,ma,Morocco,Orange,2023-01-01 00:00:00,infinity,active
+1704,604,01,ma,Morocco,IAM,2023-01-01 00:00:00,infinity,active
+1705,604,02,ma,Morocco,inwi,2023-01-01 00:00:00,infinity,active
+1706,604,04,ma,Morocco,Al Houria Telecom,2023-01-01 00:00:00,infinity,active
+1707,604,05,ma,Morocco,inwi,2023-01-01 00:00:00,infinity,active
+1708,604,06,ma,Morocco,IAM,2023-01-01 00:00:00,infinity,active
+1709,604,99,ma,Morocco,Al Houria Telecom,2023-01-01 00:00:00,infinity,active
+1710,605,01,tn,Tunisia,Orange,2023-01-01 00:00:00,infinity,active
+1711,605,02,tn,Tunisia,TT Mobile,2023-01-01 00:00:00,infinity,active
+1712,605,03,tn,Tunisia,Ooredoo,2023-01-01 00:00:00,infinity,active
+1713,605,06,tn,Tunisia,Lycamobile,2023-01-01 00:00:00,infinity,active
+1714,605,999,tn,Tunisia,Fix Line,2023-01-01 00:00:00,infinity,active
+1715,606,00,ly,Libya,Libyana,2023-01-01 00:00:00,infinity,active
+1716,606,01,ly,Libya,Al-Madar,2023-01-01 00:00:00,infinity,active
+1717,606,02,ly,Libya,Al-Madar,2023-01-01 00:00:00,infinity,active
+1718,606,03,ly,Libya,LibyaPhone Mobile,2023-01-01 00:00:00,infinity,active
+1719,606,06,ly,Libya,Hatef,2023-01-01 00:00:00,infinity,active
+1720,607,01,gm,Gambia,Gamcel,2023-01-01 00:00:00,infinity,active
+1721,607,02,gm,Gambia,Africel,2023-01-01 00:00:00,infinity,active
+1722,607,03,gm,Gambia,Comium,2023-01-01 00:00:00,infinity,active
+1723,607,04,gm,Gambia,QCell,2023-01-01 00:00:00,infinity,active
+1724,608,01,sn,Senegal,Orange,2023-01-01 00:00:00,infinity,active
+1725,608,02,sn,Senegal,Free,2023-01-01 00:00:00,infinity,active
+1726,608,03,sn,Senegal,Expresso,2023-01-01 00:00:00,infinity,active
+1727,608,04,sn,Senegal,HAYO,2023-01-01 00:00:00,infinity,active
+1728,608,299,sn,Senegal,Promobile,2023-01-01 00:00:00,infinity,active
+1729,609,01,mr,Mauritania,Mattel,2023-01-01 00:00:00,infinity,active
+1730,609,02,mr,Mauritania,Chinguitel,2023-01-01 00:00:00,infinity,active
+1731,609,10,mr,Mauritania,Mauritel,2023-01-01 00:00:00,infinity,active
+1732,610,01,ml,Mali,Malitel,2023-01-01 00:00:00,infinity,active
+1733,610,02,ml,Mali,Orange,2023-01-01 00:00:00,infinity,active
+1734,610,03,ml,Mali,Telecel,2023-01-01 00:00:00,infinity,active
+1735,611,01,gn,Guinea,Orange,2023-01-01 00:00:00,infinity,active
+1736,611,02,gn,Guinea,SotelGui,2023-01-01 00:00:00,infinity,active
+1737,611,03,gn,Guinea,Intercel,2023-01-01 00:00:00,infinity,active
+1738,611,04,gn,Guinea,MTN,2023-01-01 00:00:00,infinity,active
+1739,611,05,gn,Guinea,Cellcom,2023-01-01 00:00:00,infinity,active
+1740,612,01,ci,Ivory Coast,Comstar,2023-01-01 00:00:00,infinity,active
+1741,612,02,ci,Ivory Coast,Moov,2023-01-01 00:00:00,infinity,active
+1742,612,03,ci,Ivory Coast,Orange,2023-01-01 00:00:00,infinity,active
+1743,612,04,ci,Ivory Coast,Comium,2023-01-01 00:00:00,infinity,active
+1744,612,05,ci,Ivory Coast,MTN,2023-01-01 00:00:00,infinity,active
+1745,612,06,ci,Ivory Coast,OriCell,2023-01-01 00:00:00,infinity,active
+1746,612,07,ci,Ivory Coast,Aircomm SA,2023-01-01 00:00:00,infinity,active
+1747,613,01,bf,Burkina Faso,Telmob,2023-01-01 00:00:00,infinity,active
+1748,613,02,bf,Burkina Faso,Orange,2023-01-01 00:00:00,infinity,active
+1749,613,03,bf,Burkina Faso,Telecel,2023-01-01 00:00:00,infinity,active
+1750,614,01,ne,Niger,Niger Telecoms,2023-01-01 00:00:00,infinity,active
+1751,614,02,ne,Niger,Airtel,2023-01-01 00:00:00,infinity,active
+1752,614,03,ne,Niger,Moov,2023-01-01 00:00:00,infinity,active
+1753,614,04,ne,Niger,Orange,2023-01-01 00:00:00,infinity,active
+1754,615,01,tg,Togo,Togo Cellulaire / TogoCel,2023-01-01 00:00:00,infinity,active
+1755,615,02,tg,Togo,Telecel/MOOV,2023-01-01 00:00:00,infinity,active
+1756,615,03,tg,Togo,Telecel/MOOV,2023-01-01 00:00:00,infinity,active
+1757,616,01,bj,Benin,Libercom,2023-01-01 00:00:00,infinity,active
+1758,616,02,bj,Benin,Moov,2023-01-01 00:00:00,infinity,active
+1759,616,03,bj,Benin,MTN,2023-01-01 00:00:00,infinity,active
+1760,616,04,bj,Benin,Bell Benin/BBCOM,2023-01-01 00:00:00,infinity,active
+1761,616,05,bj,Benin,GloMobile,2023-01-01 00:00:00,infinity,active
+1762,617,01,mu,Mauritius,my.t mobile,2023-01-01 00:00:00,infinity,active
+1763,617,02,mu,Mauritius,Chili,2023-01-01 00:00:00,infinity,active
+1764,617,03,mu,Mauritius,Chili,2023-01-01 00:00:00,infinity,active
+1765,617,10,mu,Mauritius,Emtel,2023-01-01 00:00:00,infinity,active
+1766,618,01,lr,Liberia,MTN / Lonestar,2023-01-01 00:00:00,infinity,active
+1767,618,02,lr,Liberia,Libercell,2023-01-01 00:00:00,infinity,active
+1768,618,04,lr,Liberia,Novafone,2023-01-01 00:00:00,infinity,active
+1769,618,07,lr,Liberia,Orange,2023-01-01 00:00:00,infinity,active
+1770,618,20,lr,Liberia,LibTelco,2023-01-01 00:00:00,infinity,active
+1771,619,01,sl,Sierra Leone,Orange,2023-01-01 00:00:00,infinity,active
+1772,619,02,sl,Sierra Leone,Tigo/Millicom,2023-01-01 00:00:00,infinity,active
+1773,619,03,sl,Sierra Leone,Africell,2023-01-01 00:00:00,infinity,active
+1774,619,04,sl,Sierra Leone,Comium,2023-01-01 00:00:00,infinity,active
+1775,619,05,sl,Sierra Leone,Africell,2023-01-01 00:00:00,infinity,active
+1776,619,07,sl,Sierra Leone,Qcell,2023-01-01 00:00:00,infinity,active
+1777,619,25,sl,Sierra Leone,Mobitel,2023-01-01 00:00:00,infinity,active
+1778,619,299,sl,Sierra Leone,SierraTel,2023-01-01 00:00:00,infinity,active
+1779,620,01,gh,Ghana,MTN,2023-01-01 00:00:00,infinity,active
+1780,620,02,gh,Ghana,Vodafone,2023-01-01 00:00:00,infinity,active
+1781,620,03,gh,Ghana,Airtel,2023-01-01 00:00:00,infinity,active
+1782,620,04,gh,Ghana,Expresso Ghana Ltd,2023-01-01 00:00:00,infinity,active
+1783,620,05,gh,Ghana,National Security,2023-01-01 00:00:00,infinity,active
+1784,620,06,gh,Ghana,Airtel,2023-01-01 00:00:00,infinity,active
+1785,620,07,gh,Ghana,Glo,2023-01-01 00:00:00,infinity,active
+1786,620,08,gh,Ghana,Surfline,2023-01-01 00:00:00,infinity,active
+1787,620,299,gh,Ghana,Comsys,2023-01-01 00:00:00,infinity,active
+1788,621,01,ng,Nigeria,Visafone,2023-01-01 00:00:00,infinity,active
+1789,621,20,ng,Nigeria,Airtel,2023-01-01 00:00:00,infinity,active
+1790,621,25,ng,Nigeria,Visafone,2023-01-01 00:00:00,infinity,active
+1791,621,27,ng,Nigeria,Smile,2023-01-01 00:00:00,infinity,active
+1792,621,299,ng,Nigeria,Zodafones,2023-01-01 00:00:00,infinity,active
+1793,621,30,ng,Nigeria,MTN,2023-01-01 00:00:00,infinity,active
+1794,621,40,ng,Nigeria,ntel,2023-01-01 00:00:00,infinity,active
+1795,621,50,ng,Nigeria,Glo Mobile,2023-01-01 00:00:00,infinity,active
+1796,621,60,ng,Nigeria,9mobile,2023-01-01 00:00:00,infinity,active
+1797,621,99,ng,Nigeria,Starcomms,2023-01-01 00:00:00,infinity,active
+1798,622,01,td,Chad,Airtel,2023-01-01 00:00:00,infinity,active
+1799,622,02,td,Chad,Tchad Mobile,2023-01-01 00:00:00,infinity,active
+1800,622,03,td,Chad,Moov,2023-01-01 00:00:00,infinity,active
+1801,622,04,td,Chad,Salam,2023-01-01 00:00:00,infinity,active
+1802,623,01,cf,Central African Republic,Moov,2023-01-01 00:00:00,infinity,active
+1803,623,02,cf,Central African Republic,Telecel,2023-01-01 00:00:00,infinity,active
+1804,623,03,cf,Central African Republic,Orange,2023-01-01 00:00:00,infinity,active
+1805,623,04,cf,Central African Republic,Azur,2023-01-01 00:00:00,infinity,active
+1806,623,299,cf,Central African Republic,Socatel,2023-01-01 00:00:00,infinity,active
+1807,624,01,cm,Cameroon,MTN,2023-01-01 00:00:00,infinity,active
+1808,624,02,cm,Cameroon,Orange,2023-01-01 00:00:00,infinity,active
+1809,624,04,cm,Cameroon,Nexttel,2023-01-01 00:00:00,infinity,active
+1810,625,01,cv,Cape Verde,CVMovel,2023-01-01 00:00:00,infinity,active
+1811,625,02,cv,Cape Verde,Unitel T+,2023-01-01 00:00:00,infinity,active
+1812,626,01,st,Sao Tome and Principe,CSTmovel,2023-01-01 00:00:00,infinity,active
+1813,626,02,st,Sao Tome and Principe,Unitel,2023-01-01 00:00:00,infinity,active
+1814,627,01,gq,Equatorial Guinea,Orange,2023-01-01 00:00:00,infinity,active
+1815,627,03,gq,Equatorial Guinea,Muni,2023-01-01 00:00:00,infinity,active
+1816,627,299,gq,Equatorial Guinea,Failed Calls,2023-01-01 00:00:00,infinity,active
+1817,628,01,ga,Gabon,Libertis,2023-01-01 00:00:00,infinity,active
+1818,628,02,ga,Gabon,MOOV/Telecel,2023-01-01 00:00:00,infinity,active
+1819,628,03,ga,Gabon,Airtel,2023-01-01 00:00:00,infinity,active
+1820,628,04,ga,Gabon,Azur/Usan S.A.,2023-01-01 00:00:00,infinity,active
+1821,628,299,ga,Gabon,Failed Calls,2023-01-01 00:00:00,infinity,active
+1822,629,01,cg,Congo,Airtel,2023-01-01 00:00:00,infinity,active
+1823,629,02,cg,Congo,Azur SA (ETC),2023-01-01 00:00:00,infinity,active
+1824,629,07,cg,Congo,Warid,2023-01-01 00:00:00,infinity,active
+1825,629,10,cg,Congo,MTN,2023-01-01 00:00:00,infinity,active
+1826,630,01,cd,Democratic Republic of Congo,Vodacom,2023-01-01 00:00:00,infinity,active
+1827,630,02,cd,Democratic Republic of Congo,Airtel,2023-01-01 00:00:00,infinity,active
+1828,630,05,cd,Democratic Republic of Congo,Supercell,2023-01-01 00:00:00,infinity,active
+1829,630,299,cd,Democratic Republic of Congo,Tatem,2023-01-01 00:00:00,infinity,active
+1830,630,86,cd,Democratic Republic of Congo,Orange,2023-01-01 00:00:00,infinity,active
+1831,630,88,cd,Democratic Republic of Congo,Yozma Timeturns,2023-01-01 00:00:00,infinity,active
+1832,630,89,cd,Democratic Republic of Congo,TIGO/Oasis,2023-01-01 00:00:00,infinity,active
+1833,630,90,cd,Democratic Republic of Congo,Africell,2023-01-01 00:00:00,infinity,active
+1834,631,02,ao,Angola,Unitel,2023-01-01 00:00:00,infinity,active
+1835,631,04,ao,Angola,MoviCel,2023-01-01 00:00:00,infinity,active
+1836,632,01,gw,Guinea-Bissau,Guinetel,2023-01-01 00:00:00,infinity,active
+1837,632,02,gw,Guinea-Bissau,MTN,2023-01-01 00:00:00,infinity,active
+1838,632,03,gw,Guinea-Bissau,Orange,2023-01-01 00:00:00,infinity,active
+1839,632,999,gw,Guinea-Bissau,Fix	Line,2023-01-01 00:00:00,infinity,active
+1840,633,01,sc,Seychelles,Cable & Wireless,2023-01-01 00:00:00,infinity,active
+1841,633,02,sc,Seychelles,Smartcom,2023-01-01 00:00:00,infinity,active
+1842,633,05,sc,Seychelles,Intelvision,2023-01-01 00:00:00,infinity,active
+1843,633,10,sc,Seychelles,Airtel,2023-01-01 00:00:00,infinity,active
+1844,634,00,sd,Sudan,Canar Telecom,2023-01-01 00:00:00,infinity,active
+1845,634,01,sd,Sudan,Zain,2023-01-01 00:00:00,infinity,active
+1847,634,03,sd,Sudan,MTN,2023-01-01 00:00:00,infinity,active
+1848,634,05,sd,Sudan,Canar Telecom,2023-01-01 00:00:00,infinity,active
+1849,634,06,sd,Sudan,Zain,2023-01-01 00:00:00,infinity,active
+1850,634,07,sd,Sudan,Sudani One,2023-01-01 00:00:00,infinity,active
+1851,634,08,sd,Sudan,Canar Telecom,2023-01-01 00:00:00,infinity,active
+1852,634,15,sd,Sudan,Sudani One,2023-01-01 00:00:00,infinity,active
+1853,634,22,sd,Sudan,MTN,2023-01-01 00:00:00,infinity,active
+1854,634,999,sd,Sudan,Fix Line,2023-01-01 00:00:00,infinity,active
+1855,635,10,rw,Rwanda,MTN,2023-01-01 00:00:00,infinity,active
+1856,635,13,rw,Rwanda,Airtel,2023-01-01 00:00:00,infinity,active
+1857,635,14,rw,Rwanda,Airtel,2023-01-01 00:00:00,infinity,active
+1858,636,01,et,Ethiopia,Ethio Mobile,2023-01-01 00:00:00,infinity,active
+1859,637,01,so,Somalia,Telesom,2023-01-01 00:00:00,infinity,active
+1860,637,04,so,Somalia,Somafone,2023-01-01 00:00:00,infinity,active
+1861,637,10,so,Somalia,Nationlink,2023-01-01 00:00:00,infinity,active
+1862,637,19,so,Somalia,Hormuud,2023-01-01 00:00:00,infinity,active
+1863,637,299,so,Somalia,STG,2023-01-01 00:00:00,infinity,active
+1864,637,30,so,Somalia,Golis,2023-01-01 00:00:00,infinity,active
+1865,637,50,so,Somalia,Hormuud,2023-01-01 00:00:00,infinity,active
+1866,637,60,so,Somalia,Nationlink,2023-01-01 00:00:00,infinity,active
+1867,637,70,so,Somalia,Onkod,2023-01-01 00:00:00,infinity,active
+1868,637,71,so,Somalia,Somtel,2023-01-01 00:00:00,infinity,active
+1869,637,82,so,Somalia,Telcom Mobile,2023-01-01 00:00:00,infinity,active
+1870,638,01,dj,Djibouti,Evatis,2023-01-01 00:00:00,infinity,active
+1871,639,01,ke,Kenya,Safaricom,2023-01-01 00:00:00,infinity,active
+1872,639,02,ke,Kenya,Safaricom,2023-01-01 00:00:00,infinity,active
+1873,639,03,ke,Kenya,Airtel,2023-01-01 00:00:00,infinity,active
+1874,639,04,ke,Kenya,Mobile Pay,2023-01-01 00:00:00,infinity,active
+1875,639,05,ke,Kenya,Airtel,2023-01-01 00:00:00,infinity,active
+1876,639,06,ke,Kenya,Finserve Africa,2023-01-01 00:00:00,infinity,active
+1877,639,07,ke,Kenya,Telkom,2023-01-01 00:00:00,infinity,active
+1878,639,09,ke,Kenya,Homeland Media,2023-01-01 00:00:00,infinity,active
+1879,639,10,ke,Kenya,Jamii Telecommunications,2023-01-01 00:00:00,infinity,active
+1880,639,11,ke,Kenya,Jambo Telcoms,2023-01-01 00:00:00,infinity,active
+1881,639,12,ke,Kenya,Infura,2023-01-01 00:00:00,infinity,active
+1882,639,299,ke,Kenya,eferio,2023-01-01 00:00:00,infinity,active
+1883,640,01,tz,Tanzania,Tri Telecomm. Ltd.,2023-01-01 00:00:00,infinity,active
+1884,640,02,tz,Tanzania,Tigo / MIC,2023-01-01 00:00:00,infinity,active
+1885,640,03,tz,Tanzania,Zanzibar Telecom / Zantel,2023-01-01 00:00:00,infinity,active
+1886,640,04,tz,Tanzania,Vodacom,2023-01-01 00:00:00,infinity,active
+1887,640,05,tz,Tanzania,Airtel,2023-01-01 00:00:00,infinity,active
+1888,640,06,tz,Tanzania,Dovetel (T) Ltd,2023-01-01 00:00:00,infinity,active
+1889,640,07,tz,Tanzania,Tanzania Telecommunication Corporation,2023-01-01 00:00:00,infinity,active
+1890,640,08,tz,Tanzania,Benson Informatics Ltd,2023-01-01 00:00:00,infinity,active
+1891,640,09,tz,Tanzania,Halotel / Viettel,2023-01-01 00:00:00,infinity,active
+1892,640,11,tz,Tanzania,Smile Communications,2023-01-01 00:00:00,infinity,active
+1893,640,13,tz,Tanzania,WiAfrica,2023-01-01 00:00:00,infinity,active
+1894,640,14,tz,Tanzania,MO Mobile,2023-01-01 00:00:00,infinity,active
+1895,640,99,tz,Tanzania,Mkulima African Telecommunication,2023-01-01 00:00:00,infinity,active
+1896,641,01,ug,Uganda,Airtel,2023-01-01 00:00:00,infinity,active
+1897,641,04,ug,Uganda,Lycamobile,2023-01-01 00:00:00,infinity,active
+1898,641,10,ug,Uganda,MTN,2023-01-01 00:00:00,infinity,active
+1899,641,11,ug,Uganda,Mango,2023-01-01 00:00:00,infinity,active
+1900,641,14,ug,Uganda,Orange,2023-01-01 00:00:00,infinity,active
+1901,641,18,ug,Uganda,Suretelecom Uganda Ltd,2023-01-01 00:00:00,infinity,active
+1902,641,22,ug,Uganda,Airtel,2023-01-01 00:00:00,infinity,active
+1903,641,30,ug,Uganda,K2 Telecom Ltd,2023-01-01 00:00:00,infinity,active
+1904,641,33,ug,Uganda,Smile,2023-01-01 00:00:00,infinity,active
+1905,641,66,ug,Uganda,i-Tel Ltd,2023-01-01 00:00:00,infinity,active
+1906,641,999,ug,Uganda,Fix Line,2023-01-01 00:00:00,infinity,active
+1907,642,01,bi,Burundi,Leo,2023-01-01 00:00:00,infinity,active
+1908,642,02,bi,Burundi,Africel / Safaris,2023-01-01 00:00:00,infinity,active
+1909,642,03,bi,Burundi,ONAMOB,2023-01-01 00:00:00,infinity,active
+1910,642,07,bi,Burundi,Smart,2023-01-01 00:00:00,infinity,active
+1911,642,08,bi,Burundi,Lumitel,2023-01-01 00:00:00,infinity,active
+1912,642,82,bi,Burundi,Leo,2023-01-01 00:00:00,infinity,active
+1913,642,999,bi,Burundi,Fix	Line,2023-01-01 00:00:00,infinity,active
+1914,643,01,mz,Mozambique,TMCEL,2023-01-01 00:00:00,infinity,active
+1915,643,03,mz,Mozambique,Movitel,2023-01-01 00:00:00,infinity,active
+1916,643,04,mz,Mozambique,Vodacom,2023-01-01 00:00:00,infinity,active
+1917,645,01,zm,Zambia,Airtel,2023-01-01 00:00:00,infinity,active
+1918,645,02,zm,Zambia,MTN,2023-01-01 00:00:00,infinity,active
+1919,645,03,zm,Zambia,Zamtel,2023-01-01 00:00:00,infinity,active
+1920,645,299,zm,Zambia,Failed Calls,2023-01-01 00:00:00,infinity,active
+1921,646,01,mg,Madagascar,Airtel,2023-01-01 00:00:00,infinity,active
+1922,646,02,mg,Madagascar,Orange,2023-01-01 00:00:00,infinity,active
+1923,646,03,mg,Madagascar,Sacel,2023-01-01 00:00:00,infinity,active
+1924,646,04,mg,Madagascar,Telma,2023-01-01 00:00:00,infinity,active
+1925,646,299,mg,Madagascar,Bip,2023-01-01 00:00:00,infinity,active
+1926,647,00,re,Reunion,Orange,2023-01-01 00:00:00,infinity,active
+1927,647,01,yt,Mayotte,Maore Mobile,2023-01-01 00:00:00,infinity,active
+1928,647,02,re,Reunion,Only,2023-01-01 00:00:00,infinity,active
+1929,647,03,re,Reunion,Only,2023-01-01 00:00:00,infinity,active
+1930,647,04,re,Reunion,ZEOP Mobile,2023-01-01 00:00:00,infinity,active
+1931,647,10,yt,Mayotte,SFR,2023-01-01 00:00:00,infinity,active
+1932,648,01,zw,Zimbabwe,NetOne,2023-01-01 00:00:00,infinity,active
+1933,648,03,zw,Zimbabwe,Telecel,2023-01-01 00:00:00,infinity,active
+1934,648,04,zw,Zimbabwe,Econet,2023-01-01 00:00:00,infinity,active
+1935,649,01,na,Namibia,MTC,2023-01-01 00:00:00,infinity,active
+1936,649,02,na,Namibia,Switch/Nam. Telec.,2023-01-01 00:00:00,infinity,active
+1937,649,03,na,Namibia,TN Mobile,2023-01-01 00:00:00,infinity,active
+1938,649,299,na,Namibia,Demshi,2023-01-01 00:00:00,infinity,active
+1939,650,01,mw,Malawi,TNM,2023-01-01 00:00:00,infinity,active
+1940,650,10,mw,Malawi,Airtel,2023-01-01 00:00:00,infinity,active
+1941,651,01,ls,Lesotho,Vodacom,2023-01-01 00:00:00,infinity,active
+1942,651,02,ls,Lesotho,Econet,2023-01-01 00:00:00,infinity,active
+1943,652,01,bw,Botswana,Mascom,2023-01-01 00:00:00,infinity,active
+1944,652,02,bw,Botswana,Orange,2023-01-01 00:00:00,infinity,active
+1945,652,04,bw,Botswana,beMobile,2023-01-01 00:00:00,infinity,active
+1946,653,01,sz,Swaziland,EswatiniTelecom,2023-01-01 00:00:00,infinity,active
+1947,653,02,sz,Swaziland,Eswatini Mobile,2023-01-01 00:00:00,infinity,active
+1948,653,10,sz,Swaziland,Swazi MTN,2023-01-01 00:00:00,infinity,active
+1949,654,01,km,Comoros,HURI,2023-01-01 00:00:00,infinity,active
+1950,654,02,km,Comoros,Telma,2023-01-01 00:00:00,infinity,active
+1951,654,299,km,Comoros,Failed Calls,2023-01-01 00:00:00,infinity,active
+1952,655,01,za,South Africa,Vodacom,2023-01-01 00:00:00,infinity,active
+1953,655,02,za,South Africa,Telkom,2023-01-01 00:00:00,infinity,active
+1954,655,05,za,South Africa,Telkom,2023-01-01 00:00:00,infinity,active
+1955,655,06,za,South Africa,Sentech,2023-01-01 00:00:00,infinity,active
+1956,655,07,za,South Africa,Cell C,2023-01-01 00:00:00,infinity,active
+1957,655,10,za,South Africa,MTN,2023-01-01 00:00:00,infinity,active
+1958,655,12,za,South Africa,MTN,2023-01-01 00:00:00,infinity,active
+1959,655,19,za,South Africa,Rain,2023-01-01 00:00:00,infinity,active
+1960,655,21,za,South Africa,Cape Town Metropolitan,2023-01-01 00:00:00,infinity,active
+1961,655,299,za,South Africa,Lycamobile,2023-01-01 00:00:00,infinity,active
+1962,655,38,za,South Africa,Rain,2023-01-01 00:00:00,infinity,active
+1963,655,73,za,South Africa,Rain,2023-01-01 00:00:00,infinity,active
+1964,655,74,za,South Africa,Rain,2023-01-01 00:00:00,infinity,active
+1965,657,01,er,Eritrea,Eritel,2023-01-01 00:00:00,infinity,active
+1966,658,299,sh,Saint Helena and Ascension and Tristan da Cunha,Failed Calls,2023-01-01 00:00:00,infinity,active
+1967,659,02,ss,South Sudan,MTN,2023-01-01 00:00:00,infinity,active
+1968,659,03,ss,South Sudan,Gemtel Ltd (South Sudan,2023-01-01 00:00:00,infinity,active
+1969,659,04,ss,South Sudan,Network of The World Ltd (NOW) (South Sudan,2023-01-01 00:00:00,infinity,active
+1970,659,06,ss,South Sudan,Zain,2023-01-01 00:00:00,infinity,active
+1971,659,299,ss,South Sudan,Digitel,2023-01-01 00:00:00,infinity,active
+1972,702,099,bz,Belize,Smart,2023-01-01 00:00:00,infinity,active
+1973,702,299,bz,Belize,Failed Calls,2023-01-01 00:00:00,infinity,active
+1974,702,67,bz,Belize,DigiCell,2023-01-01 00:00:00,infinity,active
+1975,702,68,bz,Belize,International Telco (INTELCO),2023-01-01 00:00:00,infinity,active
+1976,702,69,bz,Belize,Smart,2023-01-01 00:00:00,infinity,active
+1977,704,01,gt,Guatemala,Claro,2023-01-01 00:00:00,infinity,active
+1978,704,02,gt,Guatemala,TIGO/COMCEL,2023-01-01 00:00:00,infinity,active
+1979,704,03,gt,Guatemala,Telefonica,2023-01-01 00:00:00,infinity,active
+1980,706,01,sv,El Salvador,CLARO/CTE,2023-01-01 00:00:00,infinity,active
+1981,706,02,sv,El Salvador,Digicel,2023-01-01 00:00:00,infinity,active
+1982,706,03,sv,El Salvador,Telemovil,2023-01-01 00:00:00,infinity,active
+1983,706,04,sv,El Salvador,Telefonica,2023-01-01 00:00:00,infinity,active
+1984,706,05,sv,El Salvador,INTELFON SA de CV,2023-01-01 00:00:00,infinity,active
+1985,708,001,hn,Honduras,SERCOM/CLARO,2023-01-01 00:00:00,infinity,active
+1986,708,002,hn,Honduras,Telefonica/CELTEL,2023-01-01 00:00:00,infinity,active
+1987,708,030,hn,Honduras,HonduTel,2023-01-01 00:00:00,infinity,active
+1988,708,040,hn,Honduras,Digicel,2023-01-01 00:00:00,infinity,active
+1989,710,21,ni,Nicaragua,Empresa Nicaraguense de Telecomunicaciones SA (ENITEL),2023-01-01 00:00:00,infinity,active
+1990,710,30,ni,Nicaragua,Movistar,2023-01-01 00:00:00,infinity,active
+1991,710,73,ni,Nicaragua,Claro,2023-01-01 00:00:00,infinity,active
+1992,710,999,ni,Nicaragua,Fix Line,2023-01-01 00:00:00,infinity,active
+1993,712,01,cr,Costa Rica,ICE,2023-01-01 00:00:00,infinity,active
+1994,712,02,cr,Costa Rica,ICE,2023-01-01 00:00:00,infinity,active
+1995,712,03,cr,Costa Rica,Claro,2023-01-01 00:00:00,infinity,active
+1996,712,04,cr,Costa Rica,Movistar,2023-01-01 00:00:00,infinity,active
+1997,712,20,cr,Costa Rica,Virtualis,2023-01-01 00:00:00,infinity,active
+1998,712,999,cr,Costa Rica,Fix Line,2023-01-01 00:00:00,infinity,active
+1999,714,01,pa,Panama,Cable & W./Mas Movil,2023-01-01 00:00:00,infinity,active
+2000,714,020,pa,Panama,Movistar,2023-01-01 00:00:00,infinity,active
+2001,714,02,pa,Panama,Movistar,2023-01-01 00:00:00,infinity,active
+2002,714,03,pa,Panama,Claro,2023-01-01 00:00:00,infinity,active
+2003,714,04,pa,Panama,Digicel,2023-01-01 00:00:00,infinity,active
+2004,714,999,pa,Panama,Fix Line,2023-01-01 00:00:00,infinity,active
+2005,716,01,pe,Peru,GlobalStar,2023-01-01 00:00:00,infinity,active
+2006,716,02,pe,Peru,GlobalStar,2023-01-01 00:00:00,infinity,active
+2007,716,06,pe,Peru,Movistar,2023-01-01 00:00:00,infinity,active
+2008,716,07,pe,Peru,Nextel,2023-01-01 00:00:00,infinity,active
+2009,716,10,pe,Peru,Claro /Amer.Mov./TIM,2023-01-01 00:00:00,infinity,active
+2010,716,15,pe,Peru,Viettel Mobile,2023-01-01 00:00:00,infinity,active
+2011,716,17,pe,Peru,Nextel,2023-01-01 00:00:00,infinity,active
+2012,716,20,pe,Peru,Claro /Amer.Mov./TIM,2023-01-01 00:00:00,infinity,active
+2013,722,007,ar,Argentina,Movistar,2023-01-01 00:00:00,infinity,active
+2014,722,010,ar,Argentina,Movistar,2023-01-01 00:00:00,infinity,active
+2015,722,020,ar,Argentina,Nextel,2023-01-01 00:00:00,infinity,active
+2016,722,031,ar,Argentina,Claro,2023-01-01 00:00:00,infinity,active
+2017,722,034,ar,Argentina,Personal,2023-01-01 00:00:00,infinity,active
+2018,722,070,ar,Argentina,Movistar,2023-01-01 00:00:00,infinity,active
+2019,722,299,ar,Argentina,Telecentro,2023-01-01 00:00:00,infinity,active
+2020,722,310,ar,Argentina,Claro,2023-01-01 00:00:00,infinity,active
+2021,722,320,ar,Argentina,Claro,2023-01-01 00:00:00,infinity,active
+2022,722,330,ar,Argentina,Claro,2023-01-01 00:00:00,infinity,active
+2023,722,340,ar,Argentina,Personal,2023-01-01 00:00:00,infinity,active
+2024,722,341,ar,Argentina,Personal,2023-01-01 00:00:00,infinity,active
+2025,722,999,ar,Argentina,Fix Line,2023-01-01 00:00:00,infinity,active
+2026,724,00,br,Brazil,Nextel (Telet),2023-01-01 00:00:00,infinity,active
+2027,724,01,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2028,724,02,br,Brazil,TIM,2023-01-01 00:00:00,infinity,active
+2029,724,03,br,Brazil,TIM,2023-01-01 00:00:00,infinity,active
+2030,724,04,br,Brazil,TIM,2023-01-01 00:00:00,infinity,active
+2031,724,05,br,Brazil,Claro/Albra/America Movil,2023-01-01 00:00:00,infinity,active
+2032,724,06,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2033,724,07,br,Brazil,CTBC/Triangulo,2023-01-01 00:00:00,infinity,active
+2034,724,08,br,Brazil,TIM,2023-01-01 00:00:00,infinity,active
+2035,724,10,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2036,724,11,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2037,724,12,br,Brazil,Claro/Albra/America Movil,2023-01-01 00:00:00,infinity,active
+2038,724,15,br,Brazil,Sercontel Cel,2023-01-01 00:00:00,infinity,active
+2039,724,16,br,Brazil,Brazil Telcom,2023-01-01 00:00:00,infinity,active
+2040,724,19,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2041,724,23,br,Brazil,Vivo S.A./Telemig,2023-01-01 00:00:00,infinity,active
+2042,724,24,br,Brazil,Amazonia Celular S/A,2023-01-01 00:00:00,infinity,active
+2043,724,26,br,Brazil,AmericaNet,2023-01-01 00:00:00,infinity,active
+2044,724,30,br,Brazil,Oi (TNL PCS / Oi),2023-01-01 00:00:00,infinity,active
+2045,724,31,br,Brazil,Oi (TNL PCS / Oi),2023-01-01 00:00:00,infinity,active
+2046,724,32,br,Brazil,CTBC Celular SA (CTBC),2023-01-01 00:00:00,infinity,active
+2047,724,33,br,Brazil,CTBC Celular SA (CTBC),2023-01-01 00:00:00,infinity,active
+2048,724,34,br,Brazil,CTBC Celular SA (CTBC),2023-01-01 00:00:00,infinity,active
+2049,724,37,br,Brazil,Unicel do Brasil Telecomunicacoes Ltda,2023-01-01 00:00:00,infinity,active
+2050,724,38,br,Brazil,Claro/Albra/America Movil,2023-01-01 00:00:00,infinity,active
+2051,724,39,br,Brazil,Nextel (Telet),2023-01-01 00:00:00,infinity,active
+2052,724,54,br,Brazil,PORTO SEGURO TELECOMUNICACOES,2023-01-01 00:00:00,infinity,active
+2053,730,00,cl,Chile,TESAM SA,2023-01-01 00:00:00,infinity,active
+2054,730,01,cl,Chile,Entel Telefonia Mov,2023-01-01 00:00:00,infinity,active
+2055,730,02,cl,Chile,TELEFONICA,2023-01-01 00:00:00,infinity,active
+2056,730,03,cl,Chile,Claro,2023-01-01 00:00:00,infinity,active
+2057,730,04,cl,Chile,Nextel SA,2023-01-01 00:00:00,infinity,active
+2058,730,05,cl,Chile,Nextel SA,2023-01-01 00:00:00,infinity,active
+2059,730,06,cl,Chile,Blue Two Chile SA,2023-01-01 00:00:00,infinity,active
+2060,730,07,cl,Chile,TELEFONICA,2023-01-01 00:00:00,infinity,active
+2061,730,08,cl,Chile,VTR Banda Ancha SA,2023-01-01 00:00:00,infinity,active
+2062,730,09,cl,Chile,Nextel SA,2023-01-01 00:00:00,infinity,active
+2063,730,10,cl,Chile,Entel Telefonia,2023-01-01 00:00:00,infinity,active
+2064,730,11,cl,Chile,Celupago SA,2023-01-01 00:00:00,infinity,active
+2065,730,12,cl,Chile,Telestar Movil SA,2023-01-01 00:00:00,infinity,active
+2066,730,13,cl,Chile,Tribe Mobile SPA,2023-01-01 00:00:00,infinity,active
+2067,730,14,cl,Chile,Netline Telefonica Movil Ltda,2023-01-01 00:00:00,infinity,active
+2068,730,15,cl,Chile,Cibeles Telecom SA,2023-01-01 00:00:00,infinity,active
+2069,730,19,cl,Chile,Sociedad Falabella Movil SPA,2023-01-01 00:00:00,infinity,active
+2070,732,001,co,Colombia,Movistar,2023-01-01 00:00:00,infinity,active
+2071,732,002,co,Colombia,Edatel,2023-01-01 00:00:00,infinity,active
+2072,732,020,co,Colombia,UNE,2023-01-01 00:00:00,infinity,active
+2073,732,101,co,Colombia,Claro,2023-01-01 00:00:00,infinity,active
+2074,732,102,co,Colombia,Movistar,2023-01-01 00:00:00,infinity,active
+2075,732,103,co,Colombia,Tigo,2023-01-01 00:00:00,infinity,active
+2076,732,111,co,Colombia,Tigo,2023-01-01 00:00:00,infinity,active
+2077,732,123,co,Colombia,Movistar,2023-01-01 00:00:00,infinity,active
+2078,732,130,co,Colombia,Avantel,2023-01-01 00:00:00,infinity,active
+2079,732,142,co,Colombia,UNE,2023-01-01 00:00:00,infinity,active
+2080,732,154,co,Colombia,Virgin Mobile,2023-01-01 00:00:00,infinity,active
+2081,732,165,co,Colombia,Tigo,2023-01-01 00:00:00,infinity,active
+2082,732,187,co,Colombia,eTb,2023-01-01 00:00:00,infinity,active
+2083,732,199,co,Colombia,SUMA movil,2023-01-01 00:00:00,infinity,active
+2084,732,220,co,Colombia,Libre Tecnologias,2023-01-01 00:00:00,infinity,active
+2085,732,230,co,Colombia,Setroc Mobile,2023-01-01 00:00:00,infinity,active
+2086,732,240,co,Colombia,Flash Mobile,2023-01-01 00:00:00,infinity,active
+2087,732,299,co,Colombia,ATnet,2023-01-01 00:00:00,infinity,active
+2088,732,360,co,Colombia,WOM,2023-01-01 00:00:00,infinity,active
+2089,732,666,co,Colombia,Claro,2023-01-01 00:00:00,infinity,active
+2090,732,999,co,Colombia,Fix Line,2023-01-01 00:00:00,infinity,active
+2091,734,01,ve,Venezuela,DigiTel C.A.,2023-01-01 00:00:00,infinity,active
+2092,734,02,ve,Venezuela,DigiTel C.A.,2023-01-01 00:00:00,infinity,active
+2093,734,03,ve,Venezuela,DigiTel C.A.,2023-01-01 00:00:00,infinity,active
+2094,734,04,ve,Venezuela,Movistar/TelCel,2023-01-01 00:00:00,infinity,active
+2095,734,06,ve,Venezuela,Movilnet C.A.,2023-01-01 00:00:00,infinity,active
+2096,736,01,bo,Bolivia,Viva/Nuevatel,2023-01-01 00:00:00,infinity,active
+2097,736,02,bo,Bolivia,Entel Pcs,2023-01-01 00:00:00,infinity,active
+2098,736,03,bo,Bolivia,Tigo,2023-01-01 00:00:00,infinity,active
+2099,738,01,gy,Guyana,DigiCel,2023-01-01 00:00:00,infinity,active
+2100,738,02,gy,Guyana,Cellink Plus,2023-01-01 00:00:00,infinity,active
+2101,740,000,ec,Ecuador,Failed Call(s),2023-01-01 00:00:00,infinity,active
+2102,740,00,ec,Ecuador,MOVISTAR/OteCel,2023-01-01 00:00:00,infinity,active
+2103,740,01,ec,Ecuador,Claro/Porta,2023-01-01 00:00:00,infinity,active
+2104,740,02,ec,Ecuador,CNT Mobile,2023-01-01 00:00:00,infinity,active
+2105,740,03,ec,Ecuador,Tuenti,2023-01-01 00:00:00,infinity,active
+2106,744,01,py,Paraguay,Hola/VOX,2023-01-01 00:00:00,infinity,active
+2107,744,02,py,Paraguay,Claro/Hutchison,2023-01-01 00:00:00,infinity,active
+2108,744,03,py,Paraguay,Compa,2023-01-01 00:00:00,infinity,active
+2109,744,04,py,Paraguay,Tigo/Telecel,2023-01-01 00:00:00,infinity,active
+2110,744,05,py,Paraguay,TIM/Nucleo/Personal,2023-01-01 00:00:00,infinity,active
+2111,746,01,sr,Suriname,Telesur,2023-01-01 00:00:00,infinity,active
+2112,746,02,sr,Suriname,Telecommunicatiebedrijf Suriname (TELESUR),2023-01-01 00:00:00,infinity,active
+2113,746,03,sr,Suriname,Digicel,2023-01-01 00:00:00,infinity,active
+2114,746,04,sr,Suriname,UNIQA,2023-01-01 00:00:00,infinity,active
+2115,746,999,sr,Suriname,Fix Line,2023-01-01 00:00:00,infinity,active
+2116,748,00,uy,Uruguay,Ancel/Antel,2023-01-01 00:00:00,infinity,active
+2117,748,01,uy,Uruguay,Ancel/Antel,2023-01-01 00:00:00,infinity,active
+2118,748,03,uy,Uruguay,Ancel/Antel,2023-01-01 00:00:00,infinity,active
+2119,748,07,uy,Uruguay,MOVISTAR,2023-01-01 00:00:00,infinity,active
+2120,748,10,uy,Uruguay,Claro/AM Wireless,2023-01-01 00:00:00,infinity,active
+2121,750,001,fk,Falkland Islands,Sure,2023-01-01 00:00:00,infinity,active
+2122,901,05,n/a,Satellite Networks,Thuraya Satellite,2023-01-01 00:00:00,infinity,active
+2123,901,11,n/a,Satellite Networks,InMarSAT,2023-01-01 00:00:00,infinity,active
+2124,901,12,n/a,Satellite Networks,Maritime Communications Partner AS,2023-01-01 00:00:00,infinity,active
+2125,901,13,n/a,International Networks,Antarctica,2023-01-01 00:00:00,infinity,active
+2126,901,14,n/a,Satellite Networks,AeroMobile,2023-01-01 00:00:00,infinity,active

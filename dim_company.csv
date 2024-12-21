@@ -1,0 +1,11 @@
+company_id,company_key,city,company,country,region,valid_from,valid_to,current_row
+-1,-1,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,2023-01-01 00:00:00,infinity,active
+1,459420,PAŽIŤ,SwiftCargo Express,SK,003,2023-01-01 00:00:00,infinity,active
+2,155743,BÁNOVCE NAD BEBRAVOU,Global FreightMasters,SK,003,2023-01-01 00:00:00,infinity,active
+3,487084,MOST 1,TransNet Logistics,CZ,002,2023-01-01 00:00:00,infinity,active
+4,124146,HARICHOVCE,FastTrack Shipping,SK,003,2023-01-01 00:00:00,infinity,active
+5,87932,SPIŠSKÁ NOVÁ VES,Horizon Haulers,SK,003,2023-01-01 00:00:00,infinity,active
+6,124184,PŘEDKLÁŠTEŘÍ,ProLogix Transport,CZ,001,2023-01-01 00:00:00,infinity,active
+7,116052,VELIM,Skyline Freightways,CZ,002,2023-01-01 00:00:00,infinity,active
+8,143659,TEPLICE,EagleEye Transports,CZ,002,2023-01-01 00:00:00,infinity,active
+9,43187,JIČÍN,United Cargo Solutions,CZ,001,2023-01-01 00:00:00,infinity,active
